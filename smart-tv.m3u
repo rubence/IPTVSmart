@@ -16,12 +16,14 @@ http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 
 #EXTINF:-1,Sic Noticias
 http://213.13.26.12:1935/live/sicnoticias/hasbahca.m3u8
-#EXTINF:-1, GLOBO
+#EXTINF:-1,Globo
 http://srvlon1.hostseven.org:1935/live/101010/livestream.m3u8
 #EXTINF:-1,Economico TV
 rtmp://213.13.26.11/live/etv_direto
 #EXTINF:-1,Economico TV
 http://213.13.26.12:1935/live/etv_direto/hasbahca.m3u8
+#EXTINF:-1,Euronews
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 #EXTINF:-1,AR TV Parlamento
 rtsp://www.canal.parlamento.pt/Live
 #EXTINF:-1,Cancao Nova
