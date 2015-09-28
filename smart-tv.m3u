@@ -6,7 +6,7 @@ http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
 #EXTINF:-1,RTP 2
 http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8
 #EXTINF:-1,SIC
-http://213.13.26.11:1935/live/sic/hasbahca.m3u8
+http://213.13.26.11:1935/live/sic/cookiemonster.m3u8
 #EXTINF:-1,SIC
 http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
 #EXTINF:-1,TVI
