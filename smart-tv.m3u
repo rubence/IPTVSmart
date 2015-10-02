@@ -6,7 +6,7 @@ http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
 #EXTINF:-1,RTP 2
 http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8
 #EXTINF:-1,SIC
-http://213.13.26.11:1935/live/sic/cookiemonster.m3u8
+http://213.13.26.11:1935/live/sic/Cookiemonster.m3u8
 #EXTINF:-1,SIC
 http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
 #EXTINF:-1,TVI
@@ -15,13 +15,13 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 
 #EXTINF:-1,Sic Noticias
-http://213.13.26.12:1935/live/sicnoticias/hasbahca.m3u8
+http://213.13.26.12:1935/live/sicnoticias/Cookiemonster.m3u8
 #EXTINF:-1,Globo
 http://srvlon1.hostseven.org:1935/live/101010/livestream.m3u8
 #EXTINF:-1,Economico TV
 rtmp://213.13.26.11/live/etv_direto
 #EXTINF:-1,Economico TV
-http://213.13.26.12:1935/live/etv_direto/hasbahca.m3u8
+http://213.13.26.12:1935/live/etv_direto/Cookiemonster.m3u8
 #EXTINF:-1,Euronews
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 #EXTINF:-1,AR TV Parlamento
@@ -31,7 +31,7 @@ http://cnhls-lh.akamaihd.net/i/cnhls_1@147036/master.m3u8
 #EXTINF:-1,Capelinha Santuario Fatima
 http://213.13.26.12:1935/live/santuario.stream/PAZ.m3u8
 #EXTINF:-1,TCV
-http://213.13.26.12:1935/live/rtc_teste/hasbahca.m3u8
+http://213.13.26.12:1935/live/rtc_teste/Cookiemonster.m3u8
 #EXTINF:-1,Globo News
 http://37.203.209.34:443/mobile/bob39/live.m3u8
 #EXTINF:-1,Baby TV
@@ -56,6 +56,15 @@ http://178.253.194.68:1935/liveloworigin/arenasport2.stream/playlist.m3u8
 http://178.253.194.68:1935/liveloworigin/arenasport3.stream/playlist.m3u8
 #EXTINF:-1,Arena Sport 4
 http://178.253.194.68:1935/liveloworigin/arenasport4.stream/playlist.m3u8
+
+Astro SuperSport 1
+http://185.63.252.176/live/antenasportucl1/playlist.m3u8
+Astro SuperSport 2
+http://185.63.252.176/live/antenasportucl2/playlist.m3u8
+Astro SuperSport 3
+http://185.63.252.176/live/antenasportucl3/playlist.m3u8
+Astro SuperSport 4
+http://185.63.252.176/live/antenasportucl4/playlist.m3u8
 
 #EXTINF:-1,NBCSN HD
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
@@ -180,7 +189,7 @@ rtmp://195.168.51.178/live/ss2hd
 #EXTINF:-1,BT/Sky
 rtmp://secure.hdcast.org/justforvip/llive1
 #EXTINF:-1,IRAK Iraqiya Sport
-http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
+http://212.7.205.5:1935/sport/live/Cookiemonster.m3u8
 #EXTINF:-1,Sports Night
 rtmp://freeview.fms.visionip.tv:1935/live/sports_tonight-sports_tonight-live-25f-16x9-HD
 #EXTINF:-1,Ring
@@ -635,15 +644,15 @@ http://iphone-streaming.ustream.tv/ustreamVideo/1524/streams/live/playlist.m3u8
 #EXTINF:-1,London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 #EXTINF:-1,Ginx
-http://204.107.26.252:1935/live/796.high.stream/cookiemonster.m3u8
+http://204.107.26.252:1935/live/796.high.stream/Cookiemonster.m3u8
 #EXTINF:-1,Hitbox
 http://api.hitbox.tv/player/hls/ectvlol.m3u8
 #EXTINF:-1,CCTV 8
 http://ktv010.cdnak.ds.kylintv.net/nlds/kylin/cctv8hd/as/live/cctv8hd_4.m3u8
 #EXTINF:-1,Punktum
-http://62.113.210.250/medienasa-live/punktum_high/hasbahca.m3u8
+http://62.113.210.250/medienasa-live/punktum_high/Cookiemonster.m3u8
 #EXTINF:-1,Rbw
-http://62.113.210.250/medienasa-live/rbw_high/hasbahca.m3u8
+http://62.113.210.250/medienasa-live/rbw_high/Cookiemonster.m3u8
 #EXTINF:-1,HRT 2
 http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
 #EXTINF:-1,Cpac
@@ -904,11 +913,11 @@ http://62.210.82.241:8081/private/private/live.m3u8
 #EXTINF:-1,Nefertisex TV-CH 10
 http://62.210.82.241:8081/sexzonehd/sexzonehd/live.m3u8
 #EXTINF:-1,Asian Porn 1
-http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
+http://edge2.everyon.tv/etv2/pld1003/Cookiemonster.m3u8
 #EXTINF:-1,Asian Porn 2
-http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
+http://edge2.everyon.tv/etv2/pld1008/Cookiemonster.m3u8
 #EXTINF:-1,Asian Porn 3
-http://edge2.everyon.tv/etv2/pld1005/HasBahCa.m3u8
+http://edge2.everyon.tv/etv2/pld1005/Cookiemonster.m3u8
 #EXTINF:-1,Jazmin TV
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 #EXTINF:-1,Sakura
