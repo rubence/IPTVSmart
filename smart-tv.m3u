@@ -49,6 +49,15 @@ http://maritimo.youon.tv/files_videos/1454d9aaef954d4194aebf05dd843cbf.mp4
 #EXTINF:-1,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
+#EXTINF‬-10,Arena Sport 1
+http://178.253.194.68:1935/liveloworigin/arenasport1.stream/playlist.m3u8
+#EXTINF:-1,Arena Sport 2
+http://178.253.194.68:1935/liveloworigin/arenasport2.stream/playlist.m3u8
+#EXTINF:-1,Arena Sport 3
+http://178.253.194.68:1935/liveloworigin/arenasport3.stream/playlist.m3u8
+#EXTINF:-1,Arena Sport 4
+http://178.253.194.68:1935/liveloworigin/arenasport4.stream/playlist.m3u8
+
 #EXTINF:-1,NBCSN HD
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1,NBCSN SD
