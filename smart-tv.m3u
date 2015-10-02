@@ -57,14 +57,16 @@ http://178.253.194.68:1935/liveloworigin/arenasport3.stream/playlist.m3u8
 #EXTINF:-1,Arena Sport 4
 http://178.253.194.68:1935/liveloworigin/arenasport4.stream/playlist.m3u8
 
-Astro SuperSport 1
+#EXTINF:-1,Astro SuperSport 1
 http://185.63.252.176/live/antenasportucl1/playlist.m3u8
-Astro SuperSport 2
+#EXTINF:-1,Astro SuperSport 2
 http://185.63.252.176/live/antenasportucl2/playlist.m3u8
-Astro SuperSport 3
+#EXTINF:-1,Astro SuperSport 3
 http://185.63.252.176/live/antenasportucl3/playlist.m3u8
-Astro SuperSport 4
+#EXTINF:-1,Astro SuperSport 4
 http://185.63.252.176/live/antenasportucl4/playlist.m3u8
+#EXTINF:-1,Bein Sports HD
+http://micutzuiptv.noip.me:1234/playlist.php?username=micutzuzzy&password=iptvsport&m3u
 
 #EXTINF:-1,NBCSN HD
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
