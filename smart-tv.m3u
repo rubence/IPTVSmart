@@ -39,7 +39,6 @@ http://178.253.194.68:1935/liveloworigin/babytv.stream/playlist.m3u8
 #EXTINF:-1,Disney Junior BR
 http://37.203.209.34:443/mobile/flash42sd/IPTVGLOBAL.m3u8
 
-
 #EXTINF:-1,Sport Tv Americas HD
 http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 #EXTINF:-1,Sport Tv Americas
@@ -49,7 +48,7 @@ http://maritimo.youon.tv/files_videos/1454d9aaef954d4194aebf05dd843cbf.mp4
 #EXTINF:-1,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF‬-10,Arena Sport 1
+#EXTINF:-1,Arena Sport 1
 http://178.253.194.68:1935/liveloworigin/arenasport1.stream/playlist.m3u8
 #EXTINF:-1,Arena Sport 2
 http://178.253.194.68:1935/liveloworigin/arenasport2.stream/playlist.m3u8
