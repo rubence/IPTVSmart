@@ -18,6 +18,8 @@ http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 http://192.240.113.42:1935/live/canal008.stream/playlist.m3u8?username=team30&password=team30
 #EXTINF:-1,UFC Network
 http://192.240.113.42:1935/live/canal009.stream/playlist.m3u8?username=team30&password=team30
+#EXTINF:-1,Arena Sport 1
+http://master.nika.rs.ba/live?channelId=4&uid=66&deviceUser=besplatno&devicePass=besplatno
 
 #EXTINF:-1, Rai Movie
 http://stream10.rai.it/italy/raimovie.smil/playlist.m3u8
