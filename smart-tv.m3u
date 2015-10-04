@@ -14,12 +14,10 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 #EXTINF:-1,TVI
 http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 
-#EXTINF:-1,CBS
-http://158.255.6.224:8080/loadchan.php?chan=1&gtoken=8c9f7326770bb525908e17d491673530
-#EXTINF:-1,TBS
-http://158.255.6.224:8080/loadchan.php?chan=67&gtoken=8c9f7326770bb525908e17d491673530
-#EXTINF:-1,Fox Cinema
-http://158.255.6.224:8080/loadchan.php?chan=720&gtoken=8c9f7326770bb525908e17d491673530
+#EXTINF:-1,SKY Sports Español
+http://192.240.113.42:1935/live/canal008.stream/playlist.m3u8?username=team30&password=team30
+#EXTINF:-1,UFC Network
+http://192.240.113.42:1935/live/canal009.stream/playlist.m3u8?username=team30&password=team30
 
 #EXTINF:-1,Sic Noticias
 http://213.13.26.12:1935/live/sicnoticias/Cookiemonster.m3u8
