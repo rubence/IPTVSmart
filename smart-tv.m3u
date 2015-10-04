@@ -19,6 +19,13 @@ http://192.240.113.42:1935/live/canal008.stream/playlist.m3u8?username=team30&pa
 #EXTINF:-1,UFC Network
 http://192.240.113.42:1935/live/canal009.stream/playlist.m3u8?username=team30&password=team30
 
+#EXTINF:-1, Rai Movie
+http://stream10.rai.it/italy/raimovie.smil/playlist.m3u8
+#EXTINF:-1, RAI YoYo
+http://stream10.rai.it/italy/raiyoyo.smil/playlist.m3u8
+#EXTINF:-1 Rai Sport 1
+http://212.162.68.163/raisport+
+
 #EXTINF:-1,Sic Noticias
 http://213.13.26.12:1935/live/sicnoticias/Cookiemonster.m3u8
 #EXTINF:-1,Globo
