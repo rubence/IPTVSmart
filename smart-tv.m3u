@@ -45,6 +45,9 @@ http://199.180.114.174:8000/espn.m3u8
 #EXTINF:-1,ESPN 3
 http://199.180.114.174:8000/espn3.m3u8
 
+#EXTINF:-1,Venus
+http://iptvlatam.ddns.net:9981/play/stream/channel/c5c821b384edcbe46e5a58cbe3274c46?title=16%20%3A%20Venus
+
 #EXTINF:-1,Sic Noticias
 http://213.13.26.12:1935/live/sicnoticias/Cookiemonster.m3u8
 #EXTINF:-1,Globo
