@@ -25,8 +25,25 @@ http://master.nika.rs.ba/live?channelId=4&uid=66&deviceUser=besplatno&devicePass
 http://stream10.rai.it/italy/raimovie.smil/playlist.m3u8
 #EXTINF:-1, RAI YoYo
 http://stream10.rai.it/italy/raiyoyo.smil/playlist.m3u8
-#EXTINF:-1 Rai Sport 1
+#EXTINF:-1, Rai Sport 1
 http://212.162.68.163/raisport+
+
+#EXTINF:-1,FOX ACTION
+http://199.180.114.174:8000/foxa.m3u8
+#EXTINF:-1,FOX 1
+http://199.180.114.174:8000/fox1.m3u8
+#EXTINF:-1,HBO 2
+http://199.180.114.174:8000/hbo2.m3u8
+#EXTINF:-1,FOX SPORTS
+http://199.180.114.174:8000/foxs.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://199.180.114.174:8000/foxs2.m3u8
+#EXTINF:-1,FOX SPORTS 3
+http://199.180.114.174:8000/foxs3.m3u8
+#EXTINF:-1,ESPN
+http://199.180.114.174:8000/espn.m3u8
+#EXTINF:-1,ESPN 3
+http://199.180.114.174:8000/espn3.m3u8
 
 #EXTINF:-1,Sic Noticias
 http://213.13.26.12:1935/live/sicnoticias/Cookiemonster.m3u8
