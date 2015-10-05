@@ -164,7 +164,9 @@ http://192.240.113.42:1935/live/canal009.stream/playlist.m3u8?username=team30&pa
 #EXTINF:-1,beIN Sports en Español
 http://iptv.latino-webtv.com/stalker.php?ch=BeinSportsLA&id=2527
 #EXTINF:-1,beIN Sports en Español
-http://iptvlatam.ddns.net:9981/play/stream/channel/9c3e62184579177163b24b304acef936?title=%20%3A%20BEIN_LA
+http://iptvlatam.ddns.net:9981/play/stream/channel/9c3e62184579177163b24b304acef936?title=%20%3A%20BEIN_LA.m3u8
+#EXTINF:-1,beIN Sports en Español
+http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/02.m3u8
 #EXTINF:-1,FOX SPORTS
 http://iptv.latino-webtv.com/stalker.php?ch=FoxSportsLA&id=2505
 #EXTINF:-1,UFC Network
@@ -1017,6 +1019,8 @@ http://212.19.7.91:8888/udp/239.191.254.75:13343
 #EXTINF:-1 audio-track="eng",Viasat Nature
 http://212.19.7.91:8888/udp/239.191.254.79:13343
 
+#EXTINF:-1,Sextreme
+http://iptvlatam.ddns.net:9981/play/stream/channel/b24c6367e7a02f8ba86351ad0ea13079?title=%20%3A%20Sextreme.m3u8
 #EXTINF:-1,Passie XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
 #EXTINF:-1,Private.com
