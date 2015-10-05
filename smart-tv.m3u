@@ -19,11 +19,47 @@ http://192.240.113.42:1935/live/canal008.stream/playlist.m3u8?username=team30&pa
 #EXTINF:-1,UFC Network
 http://192.240.113.42:1935/live/canal009.stream/playlist.m3u8?username=team30&password=team30
 
-#EXTINF:-1, Rai Movie
+#EXTINF:-1,beIN Sports en Español
+http://iptv.latino-webtv.com/stalker.php?ch=BeinSportsLA&id=2527
+#EXTINF:-1,FOX SPORTS
+http://iptv.latino-webtv.com/stalker.php?ch=FoxSportsLA&id=2505
+#EXTINF:-1,UFC Network
+http://iptv.latino-webtv.com/stalker.php?ch=UFCNetworkLA&id=1047
+#EXTINF:-1,FOX ACTION
+http://iptv.latino-webtv.com/stalker.php?ch=FOXACTIONLASD&id=435
+#EXTINF:-1,FOX MOVIES
+http://iptv.latino-webtv.com/stalker.php?ch=FOXMoviesLASD&id=463
+#EXTINF:-1,AMC
+http://iptv.latino-webtv.com/stalker.php?ch=AMCLASD&id=485
+#EXTINF:-1,GOLDEN PREMIER 1
+http://iptv.latino-webtv.com/stalker.php?ch=GoldenPremier1LA&id=4777
+#EXTINF:-1,GOLDEN ADGE
+http://iptv.latino-webtv.com/stalker.php?ch=GoldenEdgeLA&id=1465
+#EXTINF:-1,FILM ZONE
+http://iptv.latino-webtv.com/stalker.php?ch=FilmZoneLASD&id=1055
+#EXTINF:-1,AXN
+http://iptv.latino-webtv.com/stalker.php?ch=AXNLA&id=2493
+#EXTINF:-1,SPACE
+http://iptv.latino-webtv.com/stalker.php?ch=SpaceLA&id=2489
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://iptv.latino-webtv.com/stalker.php?ch=UniversalLASD&id=387
+#EXTINF:-1,WARNER BROTHERS
+http://iptv.latino-webtv.com/stalker.php?ch=WarnerLA&id=2499
+#EXTINF:-1,CINEMAX
+http://iptv.latino-webtv.com/stalker.php?ch=CinemaxLASD&id=343
+#EXTINF:-1,TNT
+http://iptv.latino-webtv.com/stalker.php?ch=TNTAmericaLatinaHD&id=262
+#EXTINF:-1,MTV
+http://iptv.latino-webtv.com/stalker.php?ch=MTVLA&id=2491
+#EXTINF:-1,NAT GEO WILD
+http://iptv.latino-webtv.com/stalker.php?ch=NatGeoWildLAHD&id=254
+
+
+#EXTINF:-1,Rai Movie
 http://stream10.rai.it/italy/raimovie.smil/playlist.m3u8
-#EXTINF:-1, RAI YoYo
+#EXTINF:-1,RAI YoYo
 http://stream10.rai.it/italy/raiyoyo.smil/playlist.m3u8
-#EXTINF:-1, Rai Sport 1
+#EXTINF:-1,Rai Sport 1
 http://212.162.68.163/raisport+
 
 #EXTINF:-1,Venus
