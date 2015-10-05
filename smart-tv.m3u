@@ -14,6 +14,146 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 #EXTINF:-1,TVI
 http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 
+#EXTINF:0,24 Kitchen
+http://lag2.tv-mobile.org:22637/udp/231.1.2.17:1234
+#EXTINF:0,24 Techno
+http://lag2.tv-mobile.org:22637/udp/239.255.110.47:30000
+#EXTINF:0,Agro TV
+http://lag2.tv-mobile.org:22637/udp/224.156.69.112:5000
+#EXTINF:0,Animal Planet (EN)
+http://lag2.tv-mobile.org:22637/udp/231.2.3.7:1234
+#EXTINF:0,AXN
+http://lag2.tv-mobile.org:22637/udp/224.156.69.163:5000
+#EXTINF:0,AXN Black
+http://lag2.tv-mobile.org:22637/udp/224.156.69.162:5000
+#EXTINF:0,AXN White
+http://lag2.tv-mobile.org:22637/udp/224.156.69.161:5000
+#EXTINF:0,beIN Sports 1 (FR)
+http://lag2.tv-mobile.org:22637/udp/239.255.246.60:30000
+#EXTINF:0,beIN Sports 2 (FR)
+http://lag2.tv-mobile.org:22637/udp/239.255.246.56:30000
+#EXTINF:0,beIN Sports 3 (FR)
+http://lag2.tv-mobile.org:22637/udp/239.255.246.57:30000
+#EXTINF:0,BG Music Channel
+http://lag2.tv-mobile.org:22637/udp/224.156.69.87:5000
+#EXTINF:0,BNT 1
+http://lag2.tv-mobile.org:22637/udp/224.156.69.71:5000
+#EXTINF:0,BNT 2
+http://lag2.tv-mobile.org:22637/udp/224.156.69.73:5000
+#EXTINF:0,BNT World
+http://lag2.tv-mobile.org:22637/udp/224.156.69.72:5000
+#EXTINF:0,BOX TV
+http://lag2.tv-mobile.org:22637/udp/239.255.247.7:30000
+#EXTINF:0,bTV 16:9
+http://lag2.tv-mobile.org:22637/udp/224.156.69.21:5000
+#EXTINF:0,bTV 4:3
+http://lag2.tv-mobile.org:22637/udp/231.1.2.49:1234
+#EXTINF:0,bTV Action
+http://lag2.tv-mobile.org:22637/udp/231.1.2.2:1234
+#EXTINF:0,bTV Comedy
+http://lag2.tv-mobile.org:22637/udp/231.1.2.20:1234
+#EXTINF:0,bTV Cinema
+http://lag2.tv-mobile.org:22637/udp/231.1.2.21:1234
+#EXTINF:24,bTV Lady
+http://lag2.tv-mobile.org:22637/udp/231.1.2.24:1234
+#EXTINF:0,CN (EN)
+http://lag2.tv-mobile.org:22637/udp/231.1.2.36:1234
+#EXTINF:0,Cinemax
+http://lag2.tv-mobile.org:22637/udp/231.2.4.7:1234
+#EXTINF:0,Cinemax 2
+http://lag2.tv-mobile.org:22637/udp/231.2.4.8:1234
+#EXTINF:0,Comedy Central Extra (EN)
+http://lag2.tv-mobile.org:22637/udp/231.2.2.26:1234
+#EXTINF:0,Diema
+http://lag2.tv-mobile.org:22637/udp/231.1.2.29:1234
+#EXTINF:0,Diema Family
+http://lag2.tv-mobile.org:22637/udp/231.1.2.1:1234
+#EXTINF:0,Discovery (EN)
+http://lag2.tv-mobile.org:22637/udp/231.1.1.20:1234
+#EXTINF:0,EK
+http://lag2.tv-mobile.org:22637/udp/231.2.3.35:1234
+#EXTINF:0,EKids
+http://lag2.tv-mobile.org:22637/udp/231.2.3.36:1234
+#EXTINF:0,Eurosport
+http://lag2.tv-mobile.org:22637/udp/231.2.2.11:1234
+#EXTINF:0,Eurosport 2
+http://lag2.tv-mobile.org:22637/udp/231.2.2.10:1234
+#EXTINF:0,F+
+http://lag2.tv-mobile.org:22637/udp/233.2.4.20:5000
+#EXTINF:0,Fen Folk
+http://lag2.tv-mobile.org:22637/udp/231.1.2.9:1234
+#EXTINF:0,Fen TV
+http://lag2.tv-mobile.org:22637/udp/231.1.2.10:1234
+#EXTINF:0,Fiesta TV
+http://lag2.tv-mobile.org:22637/udp/231.1.2.50:1234
+#EXTINF:0,Filmbox Extra
+http://lag2.tv-mobile.org:22637/udp/231.1.2.14:1234
+#EXTINF:0,Fine Living (EN)
+http://lag2.tv-mobile.org:22637/udp/239.255.247.61:30000
+#EXTINF:0,Fishing and Hunting
+http://lag2.tv-mobile.org:22637/udp/231.1.1.15:1234
+#EXTINF:0,Folklor TV
+http://lag2.tv-mobile.org:22637/udp/231.1.2.7:1234
+#EXTINF:0,FOX
+http://lag2.tv-mobile.org:22637/udp/231.1.2.32:1234
+#EXTINF:0,FOX Crime
+http://lag2.tv-mobile.org:22637/udp/231.1.2.5:1234
+#EXTINF:0,FOX Life
+http://lag2.tv-mobile.org:22637/udp/231.1.2.6:1234
+#EXTINF:0,HBO (orig.)
+http://lag2.tv-mobile.org:22637/udp/231.2.4.5:1234
+#EXTINF:0,HBO Comedy (EN)
+http://lag2.tv-mobile.org:22637/udp/231.2.4.6:1234
+#EXTINF:0,History (multi, SRB)
+http://lag2.tv-mobile.org:22637/udp/225.0.2.6:20000
+#EXTINF:0,Kanal 4
+http://lag2.tv-mobile.org:22637/udp/239.255.247.69:30000
+#EXTINF:0,Kinonova
+http://lag2.tv-mobile.org:22637/udp/224.156.69.34:5000
+#EXTINF:0,Moviestar
+http://lag2.tv-mobile.org:22637/udp/224.156.69.153:5000
+#EXTINF:0,NatGeo WILD (EN)
+http://lag2.tv-mobile.org:22637/udp/224.156.69.45:5000
+#EXTINF:0,Nat Geo (EN)
+http://lag2.tv-mobile.org:22637/udp/231.1.2.31:1234
+#EXTINF:0,NEWS7 4:3
+http://lag2.tv-mobile.org:22637/udp/231.1.2.3:1234
+#EXTINF:0,NEWS7 16:9
+http://lag2.tv-mobile.org:22637/udp/224.156.69.53:5000
+#EXTINF:0,Nickelodeon
+http://lag2.tv-mobile.org:22637/udp/231.2.2.27:1234
+#EXTINF:0,NOVA
+http://lag2.tv-mobile.org:22637/udp/231.1.2.26:1234
+#EXTINF:0,Nova Sport
+http://lag2.tv-mobile.org:22637/udp/231.1.2.18:1234
+#EXTINF:0,Ring
+http://lag2.tv-mobile.org:22637/udp/231.1.2.4:1234
+#EXTINF:0,Super7
+http://lag2.tv-mobile.org:22637/udp/231.1.2.23:1234
+#EXTINF:0,The Voice
+http://lag2.tv-mobile.org:22637/udp/231.1.2.28:1234
+#EXTINF:0,TLC (EN)
+http://lag2.tv-mobile.org:22637/udp/231.1.1.21:1234
+#EXTINF:0,Travel Channel
+http://lag2.tv-mobile.org:22637/udp/231.2.2.13:1234
+#EXTINF:0,TV1000
+http://lag2.tv-mobile.org:22637/udp/231.2.2.19:1234
+#EXTINF:0,TV7 4:3
+http://lag2.tv-mobile.org:22637/udp/231.1.2.22:1234
+#EXTINF:0,TV7 16:9
+http://lag2.tv-mobile.org:22637/udp/224.156.69.51:5000
+#EXTINF:0,TVT
+http://lag2.tv-mobile.org:22637/udp/224.156.69.78:5000
+#EXTINF:0,Viasat Explore
+http://lag2.tv-mobile.org:22637/udp/231.2.2.16:1234
+#EXTINF:0,Viasat History (EN)
+http://lag2.tv-mobile.org:22637/udp/231.2.2.17:1234
+#EXTINF:0,Viasat Nature (EN)
+http://lag2.tv-mobile.org:22637/udp/231.2.2.18:1234
+#EXTINF:0,VTK
+http://lag2.tv-mobile.org:22637/udp/231.2.3.9:1234
+
+#EXTINF:-1,FOX MOVIES
 http://o12team.tk:8080/iptvlatam/foxmovieshd/index.m3u8
 
 #EXTINF:-1,SKY Sports Español
