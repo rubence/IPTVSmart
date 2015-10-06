@@ -14,13 +14,6 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 #EXTINF:-1,TVI
 http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 
-#EXTINF:0,SPORTTV 5
-http://iptv.wssiptv.com:80/live/PlusPlusBeinSportHD/PlusPlusBeinSportHD/417.ts
-#EXTINF:0,SPORTTV 4
-http://iptv.wssiptv.com:80/live/PlusPlusBeinSportHD/PlusPlusBeinSportHD/416.ts
-#EXTINF:0,SPORTTV3
-http://iptv.wssiptv.com:80/live/PlusPlusBeinSportHD/PlusPlusBeinSportHD/415.ts
-
 #EXTINF:0,24 Kitchen
 http://lag2.tv-mobile.org:22637/udp/231.1.2.17:1234
 #EXTINF:0,24 Techno
