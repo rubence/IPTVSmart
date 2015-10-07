@@ -162,7 +162,7 @@ http://192.240.113.42:1935/live/canal008.stream/playlist.m3u8?username=team30&pa
 http://192.240.113.42:1935/live/canal009.stream/playlist.m3u8?username=team30&password=team30
 
 #EXTINF:-1,SporTV
-http://95.211.186.215:8081/loadbalance/slv0/playlist.m3u8&mediaid=undefined&start=5&duration=7.7&r=0.3608734551527666
+http://95.211.186.215:8081/loadbalance/slv0/playlist.m3u8
 #EXTINF:-1,Czech O Sport
 http://212.79.96.134:8014/
 #EXTINF:-1,beIN Sports en Español
