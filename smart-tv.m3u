@@ -171,6 +171,9 @@ http://iptv.latino-webtv.com/stalker.php?ch=BeinSportsLA&id=2527
 http://iptvlatam.ddns.net:9981/play/stream/channel/9c3e62184579177163b24b304acef936?title=%20%3A%20BEIN_LA.m3u8
 #EXTINF:-1,beIN Sports en Español
 http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/02.m3u8
+
+#EXTINF:-1,SBT
+http://livebr.sambatech.com.br/hls-live/livepkgr/sbt99_8fcdc5f0f8df8d4de56b22a2c6660470/liveevent/livestream.m3u8
 #EXTINF:-1,FOX SPORTS
 http://iptv.latino-webtv.com/stalker.php?ch=FoxSportsLA&id=2505
 #EXTINF:-1,UFC Network
