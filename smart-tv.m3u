@@ -1019,6 +1019,12 @@ http://212.19.7.91:8888/udp/239.191.254.75:13343
 #EXTINF:-1 audio-track="eng",Viasat Nature
 http://212.19.7.91:8888/udp/239.191.254.79:13343
 
+#‎EXTINF‬:-1,SuperOne +18
+http://212.70.155.243:40665/udp/237.100.0.169:4000?AbuDhabiTVHD
+#EXTINF:-1,Hustler TV
+http://212.70.155.243:40665/udp/237.100.0.170:4000?AbuDhabiTVHD
+#EXTINF:-1,Penthouse HD
+http://212.70.155.243:40665/udp/237.100.0.171:4000?AbuDhabiTVHD
 #EXTINF:-1,Sextreme
 http://iptvlatam.ddns.net:9981/play/stream/channel/b24c6367e7a02f8ba86351ad0ea13079?title=%20%3A%20Sextreme.m3u8
 #EXTINF:-1,Passie XXX
