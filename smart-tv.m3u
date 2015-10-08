@@ -173,6 +173,9 @@ http://iptvlatam.ddns.net:9981/play/stream/channel/9c3e62184579177163b24b304acef
 #EXTINF:-1,beIN Sports en Español
 http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/02.m3u8
 
+
+#EXTINF:-1,SBT HD
+http://livela.sambatech.com.br:80/hls-live/livepkgr/sbt99_8fcdc5f0f8df8d4de56b22a2c6660470/liveevent/livestream.m3u8
 #EXTINF:-1,SBT
 http://livebr.sambatech.com.br/hls-live/livepkgr/sbt99_8fcdc5f0f8df8d4de56b22a2c6660470/liveevent/livestream.m3u8
 #EXTINF:-1,FOX SPORTS
