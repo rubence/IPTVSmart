@@ -164,39 +164,6 @@ rtmp://srvvenus.canaldoboi.com/livecb/livestream
 http://livela.sambatech.com.br:80/hls-live/livepkgr/sbt99_8fcdc5f0f8df8d4de56b22a2c6660470/liveevent/livestream.m3u8
 #EXTINF:-1,SBT
 http://livebr.sambatech.com.br/hls-live/livepkgr/sbt99_8fcdc5f0f8df8d4de56b22a2c6660470/liveevent/livestream.m3u8
-#EXTINF:-1,FOX SPORTS
-http://iptv.latino-webtv.com/stalker.php?ch=FoxSportsLA&id=2505
-#EXTINF:-1,UFC Network
-http://iptv.latino-webtv.com/stalker.php?ch=UFCNetworkLA&id=1047
-#EXTINF:-1,FOX ACTION
-http://iptv.latino-webtv.com/stalker.php?ch=FOXACTIONLASD&id=435
-#EXTINF:-1,FOX MOVIES
-http://iptv.latino-webtv.com/stalker.php?ch=FOXMoviesLASD&id=463
-#EXTINF:-1,AMC
-http://iptv.latino-webtv.com/stalker.php?ch=AMCLASD&id=485
-#EXTINF:-1,GOLDEN PREMIER 1
-http://iptv.latino-webtv.com/stalker.php?ch=GoldenPremier1LA&id=4777
-#EXTINF:-1,GOLDEN ADGE
-http://iptv.latino-webtv.com/stalker.php?ch=GoldenEdgeLA&id=1465
-#EXTINF:-1,FILM ZONE
-http://iptv.latino-webtv.com/stalker.php?ch=FilmZoneLASD&id=1055
-#EXTINF:-1,AXN
-http://iptv.latino-webtv.com/stalker.php?ch=AXNLA&id=2493
-#EXTINF:-1,SPACE
-http://iptv.latino-webtv.com/stalker.php?ch=SpaceLA&id=2489
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://iptv.latino-webtv.com/stalker.php?ch=UniversalLASD&id=387
-#EXTINF:-1,WARNER BROTHERS
-http://iptv.latino-webtv.com/stalker.php?ch=WarnerLA&id=2499
-#EXTINF:-1,CINEMAX
-http://iptv.latino-webtv.com/stalker.php?ch=CinemaxLASD&id=343
-#EXTINF:-1,TNT
-http://iptv.latino-webtv.com/stalker.php?ch=TNTAmericaLatinaHD&id=262
-#EXTINF:-1,MTV
-http://iptv.latino-webtv.com/stalker.php?ch=MTVLA&id=2491
-#EXTINF:-1,NAT GEO WILD
-http://iptv.latino-webtv.com/stalker.php?ch=NatGeoWildLAHD&id=254
-
 
 #EXTINF:-1,Rai Movie
 http://stream10.rai.it/italy/raimovie.smil/playlist.m3u8
@@ -204,9 +171,6 @@ http://stream10.rai.it/italy/raimovie.smil/playlist.m3u8
 http://stream10.rai.it/italy/raiyoyo.smil/playlist.m3u8
 #EXTINF:-1,Rai Sport 1
 http://212.162.68.163/raisport+
-
-#EXTINF:-1,Venus
-http://iptvlatam.ddns.net:9981/play/stream/channel/c5c821b384edcbe46e5a58cbe3274c46?title=16%20%3A%20Venus
 
 #EXTINF:-1,Sic Noticias
 http://213.13.26.12:1935/live/sicnoticias/Cookiemonster.m3u8
