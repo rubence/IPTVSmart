@@ -151,27 +151,15 @@ http://lag2.tv-mobile.org:22637/udp/231.2.2.18:1234
 #EXTINF:0,VTK
 http://lag2.tv-mobile.org:22637/udp/231.2.3.9:1234
 
-#EXTINF:-1,FOX MOVIES
-http://o12team.tk:8080/iptvlatam/foxmovieshd/index.m3u8
-
-#EXTINF:-1,SKY Sports Español
-http://192.240.113.42:1935/live/canal008.stream/playlist.m3u8?username=team30&password=team30
-#EXTINF:-1,UFC Network
-http://192.240.113.42:1935/live/canal009.stream/playlist.m3u8?username=team30&password=team30
-#EXTINF:-1,UFC Network (BR)
-http://95.211.186.215:8081/loadbalance/slv1/chunks.m3u8?nimblesessionid=4785469
 #EXTINF:-1,SporTV
 http://95.211.186.215:8081/loadbalance/slv0/playlist.m3u8
-#EXTINF:-1,Czech O Sport
-http://212.79.96.134:8014/
-#EXTINF:-1,beIN Sports en Español
-http://iptv.latino-webtv.com/stalker.php?ch=BeinSportsLA&id=2527
 #EXTINF:-1,beIN Sports en Español
 http://iptvlatam.ddns.net:9981/play/stream/channel/9c3e62184579177163b24b304acef936?title=%20%3A%20BEIN_LA.m3u8
 #EXTINF:-1,beIN Sports en Español
 http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/02.m3u8
 
-
+#EXTINF:-1,Canal do Boi
+rtmp://srvvenus.canaldoboi.com/livecb/livestream
 #EXTINF:-1,SBT HD
 http://livela.sambatech.com.br:80/hls-live/livepkgr/sbt99_8fcdc5f0f8df8d4de56b22a2c6660470/liveevent/livestream.m3u8
 #EXTINF:-1,SBT
