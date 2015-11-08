@@ -12,13 +12,6 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 #EXTINF:-1,TVI
 http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 
-#EXTINF:-1,SporTV
-http://95.211.186.215:8081/loadbalance/slv0/playlist.m3u8
-#EXTINF:-1,beIN Sports en Español
-http://iptvlatam.ddns.net:9981/play/stream/channel/9c3e62184579177163b24b304acef936?title=%20%3A%20BEIN_LA.m3u8
-#EXTINF:-1,beIN Sports en Español
-http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/02.m3u8
-
 #EXTINF:-1,Canal do Boi
 rtmp://srvvenus.canaldoboi.com/livecb/livestream
 #EXTINF:-1,SBT HD
