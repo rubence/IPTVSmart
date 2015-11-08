@@ -1,5 +1,4 @@
-﻿#EXTM3U
-
+#EXTM3U
 
 #EXTINF:-1,RTP 1
 http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
@@ -11,13 +10,6 @@ http://213.13.26.11:1935/live/sic/Cookiemonster.m3u8
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 #EXTINF:-1,TVI
 http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
-
-#EXTINF:-1,Canal do Boi
-rtmp://srvvenus.canaldoboi.com/livecb/livestream
-#EXTINF:-1,SBT HD
-http://livela.sambatech.com.br:80/hls-live/livepkgr/sbt99_8fcdc5f0f8df8d4de56b22a2c6660470/liveevent/livestream.m3u8
-#EXTINF:-1,SBT
-http://livebr.sambatech.com.br/hls-live/livepkgr/sbt99_8fcdc5f0f8df8d4de56b22a2c6660470/liveevent/livestream.m3u8
 
 #EXTINF:-1,Rai Movie
 http://stream10.rai.it/italy/raimovie.smil/playlist.m3u8
@@ -453,6 +445,8 @@ http://74.208.152.93/music/stream.m3u8
 #EXTINF:-1,Djing Hot
 http://cdn.djing.com/tv/h-05.m3u8
 
+#EXTINF:-1,Canal do Boi
+rtmp://srvvenus.canaldoboi.com/livecb/livestream
 #EXTINF:-1,Univision
 http://209.133.208.202:1935/app/turbomax-hds-channel/playlist.m3u8
 #EXTINF:-1,Gala Tv
