@@ -42,8 +42,6 @@ rtsp://www.canal.parlamento.pt/Live
 http://cnhls-lh.akamaihd.net/i/cnhls_1@147036/master.m3u8
 #EXTINF:-1,Capelinha Santuario Fatima
 http://213.13.26.12:1935/live/santuario.stream/PAZ.m3u8
-#EXTINF:-1,TCV
-http://213.13.26.12:1935/live/rtc_teste/Cookiemonster.m3u8
 #EXTINF:-1,Globo News
 http://37.203.209.34:443/mobile/bob39/live.m3u8
 #EXTINF:-1,Baby TV
@@ -71,16 +69,6 @@ http://185.63.252.176/live/antenasportucl4/playlist.m3u8
 #EXTINF:-1,Bein Sports HD
 http://micutzuiptv.noip.me:1234/playlist.php?username=micutzuzzy&password=iptvsport&m3u
 
-#EXTINF:-1,NBCSN HD
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,NBCSN SD
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,Win Sports
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
-#EXTINF:-1,Win Sports
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_2.m3u8
-#EXTINF:-1,Win Sports
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_3.m3u8
 #EXTINF:-1,Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 #EXTINF:-1,Telekanal
@@ -106,10 +94,6 @@ http://79.133.125.42:8888/udp/239.191.254.80:13343
 http://91.213.59.190:8000/239.0.0.169
 #EXTINF:-1,Motorsport 1
 http://motorsport.hopto.org:8080/
-#EXTINF:-1,Motorsport 1
-http://motorsport.hopto.org:8081/
-#EXTINF:-1,Motorsport 1
-http://motorsport.hopto.org:8082/
 
 #EXTINF:-1,Eurosport HD
 http://91.213.59.190:8000/239.0.0.195  
