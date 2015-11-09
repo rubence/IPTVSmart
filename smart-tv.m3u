@@ -22,6 +22,19 @@ http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 #EXTINF:-1,BTV 1
 http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/playlist.m3u8
 
+#EXTINF:-1,Sky Sports 1
+http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports1.stream/chunklist.m3u8
+#EXTINF:-1,Sky Sports 2
+http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports2.stream/chunklist.m3u8
+#EXTINF:-1,Sky Sports 3
+http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports3.stream/chunklist.m3u8
+#EXTINF:-1,Sky Sports 4
+http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports4.stream/chunklist.m3u8
+#EXTINF:-1,Sky Sports 5
+http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports5.stream/chunklist.m3u8
+#EXTINF:-1,Turkeminstan Sport
+http://tv.online.tm/hls/ch004_md/index.m3u8
+
 #EXTINF‬:-1, PLAYBOY TV
 http://teuportal.dyndns.org:8000/live/pires/pires/79.m3u8
 #EXTINF:-1, Venus
