@@ -48,17 +48,6 @@ http://178.253.194.68:1935/liveloworigin/babytv.stream/playlist.m3u8
 #EXTINF:-1,Disney Junior BR
 http://37.203.209.34:443/mobile/flash42sd/IPTVGLOBAL.m3u8
 
-#EXTINF:-1,Astro SuperSport 1
-http://185.63.252.176/live/antenasportucl1/playlist.m3u8
-#EXTINF:-1,Astro SuperSport 2
-http://185.63.252.176/live/antenasportucl2/playlist.m3u8
-#EXTINF:-1,Astro SuperSport 3
-http://185.63.252.176/live/antenasportucl3/playlist.m3u8
-#EXTINF:-1,Astro SuperSport 4
-http://185.63.252.176/live/antenasportucl4/playlist.m3u8
-#EXTINF:-1,Bein Sports HD
-http://micutzuiptv.noip.me:1234/playlist.php?username=micutzuzzy&password=iptvsport&m3u
-
 #EXTINF:-1,Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 #EXTINF:-1,Telekanal
@@ -67,8 +56,7 @@ http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
 #EXTINF:-1,Viasat Sport
 http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
 #EXTINF:-1,Sports TV
-rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
-#EXTINF:-1,Спорт
+rtmp://stream.sportstv.com.tr/sportstv/SportsTV3http://185.63.252.176/live/antenasportucl1/playlist.m3u8
 http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8"
 #EXTINF:-1,НТВ+ Спорт Плюс
 http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
@@ -200,15 +188,6 @@ http://fe-sib.svc.iptv.rt.ru/hls/CH_C02_NICKJUNIOR/variant.m3u8?version=2
 http://fe-sib.svc.iptv.rt.ru/hls/CH_C05_CARTOONNETWORK/variant.m3u8?version=2
 #EXTINF:-1,Cartoon Network
 http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
-
-#EXTINF:-1,Cinemax 
-http://lag2.tv-mobile.org/prgb.m3u8 
-#EXTINF:-1,AXN 
-http://lag2.tv-mobile.org/prgd.m3u8 
-#EXTINF:-1,HBO 
-http://lag2.tv-mobile.org/prgp.m3u8 
-#EXTINF:-1,Filmbox 
-http://lag1.tv-mobile.org/prgw.m3u8
 
 #EXTINF:-1,TVE1
 http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
