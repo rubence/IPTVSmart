@@ -364,6 +364,8 @@ http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
 http://104.200.159.58:1935/app/bypass_tvs-channel/media_w980039968_10152.m3u8
 #EXTINF:-1,Telemundo
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Telefe
+http://190.57.237.230/live/canal2.m3u8?ID=21.821294800974943
 #EXTINF:-1,Canal 7
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 #EXTINF:-1,Ocho Tv
