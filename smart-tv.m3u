@@ -22,13 +22,13 @@ http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 #EXTINF:-1,BTV 1
 http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/playlist.m3u8
 
-Sport TV 1
+#EXTINF:-1,Sport TV 1
 http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.28.10:1234
-BenficaTV2
+#EXTINF:-1,BenficaTV2
 http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.30.31:1234
-playboy
+#EXTINF:-1,Playboy
 http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.28.18:1234
-Venus
+#EXTINF:-1,Venus
 http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.26.10:1234
 
 #EXTINF:-1,Sky Sports 1
