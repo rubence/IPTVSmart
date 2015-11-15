@@ -33,11 +33,6 @@ http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 #EXTINF:-1,Sport TV 3
 http://31.204.128.112:8081/live/portugal3/playlist.m3u8
 
-#EXTINF:-1,Playboy
-http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.28.18:1234
-#EXTINF:-1,Venus
-http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.26.10:1234
-
 #EXTINF:-1,Sky Sports 1
 http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports1.stream/chunklist.m3u8
 #EXTINF:-1,Sky Sports 2
@@ -588,6 +583,11 @@ http://212.19.7.91:8888/udp/239.191.254.75:13343
 #EXTINF:-1 audio-track="eng",Viasat Nature
 http://212.19.7.91:8888/udp/239.191.254.79:13343
 
+
+#EXTINF:-1,Playboy
+http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.28.18:1234
+#EXTINF:-1,Venus
+http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.26.10:1234
 #EXTINF:-1,Playboy TV
 http://teuportal.dyndns.org:8000/live/pires/pires/79.m3u8
 #EXTINF:-1, Venus
