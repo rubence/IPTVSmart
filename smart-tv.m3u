@@ -44,6 +44,15 @@ http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports4.stream/chunklist.m3u8
 #EXTINF:-1,Sky Sports 5
 http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports5.stream/chunklist.m3u8
 
+#EXTINF:-1, beIN SPORTS 1 HD
+http://95.211.211.164/tv/bein1.stream/index.m3u8
+#EXTINF:-1, beIN SPORTS 2 HD
+http://95.211.211.164/tv/bein2.stream/index.m3u8
+#EXTINF:-1, beIN SPORTS 3 HD
+http://95.211.211.164/tv/bein3.stream/index.m3u8
+#EXTINF:-1, beIN SPORTS 4 HD
+http://95.211.211.164/tv/bein4.stream/index.m3u8
+
 #EXTINF:-1,Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 #EXTINF:-1,Telekanal
