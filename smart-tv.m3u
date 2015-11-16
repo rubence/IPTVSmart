@@ -84,25 +84,6 @@ http://stream10.rai.it/italy/raiyoyo.smil/playlist.m3u8
 #EXTINF:-1,Rai Yoyo
 mmsh://212.162.68.162/rai_yoyo
 
-#EXTINF:-1,Sic Noticias
-http://213.13.26.12:1935/live/sicnoticias/Cookiemonster.m3u8
-#EXTINF:-1,Economico TV
-rtmp://213.13.26.11/live/etv_direto
-#EXTINF:-1,Economico TV
-http://213.13.26.12:1935/live/etv_direto/Cookiemonster.m3u8
-#EXTINF:-1,Euronews
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
-#EXTINF:-1,AR TV Parlamento
-rtsp://www.canal.parlamento.pt/Live
-#EXTINF:-1,Cancao Nova
-http://cnhls-lh.akamaihd.net/i/cnhls_1@147036/master.m3u8
-#EXTINF:-1,Capelinha Santuario Fatima
-http://213.13.26.12:1935/live/santuario.stream/PAZ.m3u8
-#EXTINF:-1,Globo News
-http://37.203.209.34:443/mobile/bob39/live.m3u8
-#EXTINF:-1,Disney Junior BR
-http://37.203.209.34:443/mobile/flash42sd/IPTVGLOBAL.m3u8
-
 #EXTINF:-1,Sports TV
 http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
 #EXTINF:-1,Astro Supersport 1
@@ -163,6 +144,17 @@ rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9
 
 #EXTINF:-1,TVU Ei
 http://srv6.zoeweb.tv:1935/z433-live/stream/livestream.m3u8
+
+#‎EXTINF‬:-1,Supersport News
+http://176.10.104.216/ss1sd/index.m3u8
+#EXTINF:-1,Supersport 2
+http://46.234.100.41:8080/ss2sd/index.m3u8
+#EXTINF:-1,Supersport 3
+http://176.10.104.216:8080/ss3sd/index.m3u8
+#EXTINF:-1,Supersport 4
+http://176.10.104.216:8080/ss4sd/index.m3u8
+#EXTINF:-1,Supersport 5
+http://176.10.104.216:8080/ss5sd/index.m3u8
 
 #EXTINF:-1,Slovak Sport 1
 rtmp://195.168.51.178/live/ss1HD
@@ -705,3 +697,21 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
 #EXTINF:-1,TVI
 http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
+#EXTINF:-1,Sic Noticias
+http://213.13.26.12:1935/live/sicnoticias/Cookiemonster.m3u8
+#EXTINF:-1,Economico TV
+rtmp://213.13.26.11/live/etv_direto
+#EXTINF:-1,Economico TV
+http://213.13.26.12:1935/live/etv_direto/Cookiemonster.m3u8
+#EXTINF:-1,Euronews
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
+#EXTINF:-1,AR TV Parlamento
+rtsp://www.canal.parlamento.pt/Live
+#EXTINF:-1,Cancao Nova
+http://cnhls-lh.akamaihd.net/i/cnhls_1@147036/master.m3u8
+#EXTINF:-1,Capelinha Santuario Fatima
+http://213.13.26.12:1935/live/santuario.stream/PAZ.m3u8
+#EXTINF:-1,Globo News
+http://37.203.209.34:443/mobile/bob39/live.m3u8
+#EXTINF:-1,Disney Junior BR
+http://37.203.209.34:443/mobile/flash42sd/IPTVGLOBAL.m3u8
