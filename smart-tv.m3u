@@ -87,16 +87,8 @@ http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fc
 http://stream10.rai.it/italy/raimovie.smil/playlist.m3u8
 #EXTINF:-1,RAI YoYo
 http://stream10.rai.it/italy/raiyoyo.smil/playlist.m3u8
-#EXTINF:-1,Rai Yoyo
-mmsh://212.162.68.162/rai_yoyo
 #EXTINF:-1,TSN
 http://fms.shared.streamshow.it:1935/tsn/tsn/live.m3u8
-#EXTINF:-1,TSN
-http://wms.shared.streamshow.it:1935/tsn/tsn/live.m3u8
-#EXTINF:-1,TSN 2
-http://fms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
-#EXTINF:-1,TSN 2
-http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
 
 #EXTINF:-1,Sports TV
 http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
