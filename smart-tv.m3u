@@ -115,7 +115,7 @@ http://37.203.209.34:443/mobile/bob39/live.m3u8
 http://37.203.209.34:443/mobile/flash42sd/IPTVGLOBAL.m3u8
 
 #EXTINF:-1,Sports TV
-rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
+http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
 #EXTINF:-1,Astro Supersport 1
 http://185.63.252.176/live/antenasportucl1/playlist.m3u8
 #EXTINF:-1,Astro Supersport 2
