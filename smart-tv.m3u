@@ -648,6 +648,8 @@ rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8 
 #EXTINF:-1,Premium 
 http://edge2.everyon.tv:1935/etv2/phd1006/paz.m3u8
+#EXTINF:-1,Private.com
+http://publish.thewebstream.co:1935/leved/_definst_/privateCom/playlist.m3u8
 
 #EXTINF:-1, Adult 4K: VOD1
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
