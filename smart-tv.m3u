@@ -219,6 +219,11 @@ mms://100automoto.tv/channel_mercedes
 #EXTINF:-1,Porsche
 mms://100automoto.tv/channel_porsche
 
+#EXTINF:-1,SyfY
+http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
+#EXTINF:-1,Sci-Fi Series and Movies
+http://iphone-streaming.ustream.tv/ustreamVideo/20752580/streams/live/playlist.m3u8
+
 #EXTINF:-1,TVE1
 http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1,TVE1
