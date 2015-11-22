@@ -4,34 +4,6 @@
 http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 #EXTINF:-1,Sport Tv Americas
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
-#EXTINF:-1,BenficaTV1
-http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/playlist.m3u8
-
-#‎EXTINF‬:-1, Sport TV 1
-http://31.204.128.112:8081/live/portugal1/playlist.m3u8
-#EXTINF:-1, Sport TV 2
-http://31.204.128.112:8081/live/portugal2/playlist.m3u8
-#EXTINF:-1, Sport TV 3
-http://31.204.128.112:8081/live/portugal3/playlist.m3u8
-
-#EXTINF:-1,Sport TV 1
-http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.28.10:1234
-#EXTINF:-1,Sport TV 1 HD
-http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.27.11:1234
-#EXTINF:-1,Sport TV 2 HD
-http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.27.12:1234
-#EXTINF:-1,SPORT TV 2
-http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.29.12:1234
-#EXTINF:-1,SPORT TV 3
-http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.29.15:1234
-#EXTINF:-1,SPORT TV 4
-http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.30.23:1234
-#EXTINF:-1,Sport TV 5
-http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.25.29:1234
-#EXTINF:-1,BTV 1 HD
-http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.27.18:1234
-#EXTINF:-1,BTV 2
-http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.30.31:1234
 
 #EXTINF:-1,Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
@@ -621,11 +593,6 @@ http://212.129.30.215/sexhothd/sexhothd/playlist.m3u8
 http://212.129.30.215/sexzone/sexzone/playlist.m3u8
 EXTINF?:1 Private
 http://212.129.30.215/private/private/playlist.m3u8
-
-#EXTINF:-1,Playboy
-http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.28.18:1234
-#EXTINF:-1,Venus
-http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.26.10:1234
 
 #EXTINF:-1,Redlight HD
 http://46.47.0.238:8890/rtp/224.244.244.157:19993
