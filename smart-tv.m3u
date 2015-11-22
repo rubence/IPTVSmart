@@ -5,6 +5,27 @@ http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300
 #EXTINF:-1,Sport Tv Americas
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 
+#EXTINF:-1,Bein Sports 1
+http://free.iptv.re:80/live/15642890/441300/1.ts
+#EXTINF:-1,Bein Sports 2
+http://free.iptv.re:80/live/15642890/441300/2.ts
+#EXTINF:-1,Bein Sports 3
+http://free.iptv.re:80/live/15642890/441300/3.ts
+#EXTINF:-1,Bein Sports 4
+http://free.iptv.re:80/live/15642890/441300/4.ts
+#EXTINF:-1,Bein Sports 5
+http://free.iptv.re:80/live/15642890/441300/5.ts
+#EXTINF:-1,Bein Sports 6
+http://free.iptv.re:80/live/15642890/441300/6.ts
+#EXTINF:-1,Bein Sports 7
+http://free.iptv.re:80/live/15642890/441300/7.ts
+#EXTINF:-1,Bein Sports 8
+http://free.iptv.re:80/live/15642890/441300/8.ts
+#EXTINF:-1,Bein Sports 9
+http://free.iptv.re:80/live/15642890/441300/9.ts
+#EXTINF:-1,Bein Sports 10
+http://free.iptv.re:80/live/15642890/441300/10.ts
+
 #EXTINF:-1,TVI Reality
 http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8
 
