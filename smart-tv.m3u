@@ -808,3 +808,8 @@ http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6
 http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=73
 #EXTINF:-1,Planeta Futbol
 http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=74
+
+#EXTINF:0,CACAVISION
+http://painel.soeu.ws:8000/live/spockesch/2kJ2aAynyk/216.ts
+#EXTINF:-1,Caza e Pesca
+http://painel.soeu.ws:8000/live/spockesch/2kJ2aAynyk/208.ts
