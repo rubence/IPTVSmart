@@ -4,16 +4,7 @@
 http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 #EXTINF:-1,Sport Tv Americas
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
-#EXTINF:-1,Sport Tv 1
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3221.m3u8
-#EXTINF:-1,Sport Tv 2
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3222.m3u8
-#EXTINF:-1,Sport Tv 3
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3223.m3u8
-#EXTINF:-1,Sport Tv 4
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3224.m3u8
-#EXTINF:-1,Sport Tv 5
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3225.m3u8
+
 #EXTINF:-1,Bein Sports 1
 http://free.iptv.re:80/live/15642890/441300/1.ts
 #EXTINF:-1,Bein Sports 2
