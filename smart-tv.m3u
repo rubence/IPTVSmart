@@ -576,6 +576,11 @@ http://212.19.7.91:8888/udp/239.191.254.75:13343
 #EXTINF:-1 audio-track="eng",Viasat Nature
 http://212.19.7.91:8888/udp/239.191.254.79:13343
 
+#EXTINF‬:-1,Sex Prive
+http://212.129.30.215:1935/sexprive22/sexprive22/live.m3u8
+#EXTINF:-1,Spice HD
+http://212.129.30.215:1935/spicehd2/spicehd2/live.m3u8
+
 #EXTINF‬:1,Brasileirinhas
 http://212.129.30.215/brasileirinhas/brasileirinhas/playlist.m3u8
 #EXTINF:1, Brasileirinhas HD
