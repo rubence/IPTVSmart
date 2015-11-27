@@ -807,3 +807,5 @@ http://painel.soeu.ws:8000/live/spockesch/2kJ2aAynyk/216.ts
 http://painel.soeu.ws:8000/live/spockesch/2kJ2aAynyk/208.ts
 #EXTINF:-1,Disney Junior BR
 http://31.204.128.112:8081/live/disneyjr/playlist.m3u8
+#EXTINF:-1,Telecine Premium BR
+http://31.204.128.112:8081/live/tcpremium/playlist.m3u8
