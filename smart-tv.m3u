@@ -617,6 +617,8 @@ http://edge2.everyon.tv/etv2/pld1008/Cookiemonster.m3u8
 http://edge2.everyon.tv/etv2/pld1005/Cookiemonster.m3u8
 #EXTINF:-1,Jazmin TV
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
+#EXTINF:-1,Hot Shots
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
 #EXTINF:-1,Sakura
 http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8 
 #EXTINF:-1,Premium 
