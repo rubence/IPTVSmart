@@ -93,8 +93,6 @@ http://live1.mtrk.uz:1935/live/sport.stream/playlist.m3u8
 http://spi.hystream.com:1935/spilive/spistream_360/livestream.m3u8
 #EXTINF:-1,SportBG 720p Bulgarian
 http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
-#EXTINF:-1,Sports Tonight UK
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
 
 #EXTINF:-1,TVU Ei
 http://srv6.zoeweb.tv:1935/z433-live/stream/livestream.m3u8
