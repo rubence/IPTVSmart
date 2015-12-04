@@ -9,6 +9,19 @@ http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 http://02e4.vp9.tv/chn/btsu1/v.m3u8
 #EXTINF:-1,BT Sport 1
 http://02e4.vp9.tv/chn/btsu2/v.m3u8
+EXTINF:-1,SKY SPORT 3
+http://02e4.vp9.tv/chn/sks3/v.m3u8
+#EXTINF:-1,SKY SPORT 5
+http://02e4.vp9.tv/chn/sks5/v.m3u8
+#EXTINF:-1,TSN 1
+http://02e4.vp9.tv/chn/tsn1/v.m3u8
+#EXTINF:-1,TSN 2
+http://02e4.vp9.tv/chn/tsn2/v.m3u8
+#EXTINF:-1,TSN 3
+http://02e4.vp9.tv/chn/tsn3/v.m3u8
+#EXTINF:-1,TNS 4
+http://02e4.vp9.tv/chn/tsn4/v.m3u8
+
 #EXTINF:0,ArenaSport1
 http://91.204.214.106:23201/stolen/268u/xenixos.7z
 #EXTINF:0,ArenaSport3
