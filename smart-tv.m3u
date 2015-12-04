@@ -21,6 +21,26 @@ http://02e4.vp9.tv/chn/tsn2/v.m3u8
 http://02e4.vp9.tv/chn/tsn3/v.m3u8
 #EXTINF:-1,TNS 4
 http://02e4.vp9.tv/chn/tsn4/v.m3u8
+#‎EXTINF:-1,BEIN 1
+http://02e4.vp9.tv/chn/bein01hd/v.m3u8
+#EXTINF:-1,BEIN 2
+http://02e8.vp9.tv/chn/bein02hd/v.m3u8
+#EXTINF:-1,BEIN 3
+http://03e8.vp9.tv/chn/bein03hd/v.m3u8
+#EXTINF:-1,BEIN 4
+http://04e8.vp9.tv/chn/bein04hd/v.m3u8
+#EXTINF:-1,BEIN 5
+http://01e8.vp9.tv/chn/bein05hd/v.m3u8
+#EXTINF:-1,BEIN 6
+http://01e8.vp9.tv/chn/bein06hd/v.m3u8
+#EXTINF:-1,BEIN 7
+http://08e6.vp9.tv/chn/bein07hd/v.m3u8
+#EXTINF:-1,BEIN 8
+http://02e8.vp9.tv/chn/bein08hd/v.m3u8
+#EXTINF:-1,BEIN 9
+http://01e8.vp9.tv/chn/bein09hd/v.m3u8
+#EXTINF:-1,BEIN 10
+http://08e6.vp9.tv/chn/bein10hd/v.m3u8
 
 #EXTINF:0,ArenaSport1
 http://91.204.214.106:23201/stolen/268u/xenixos.7z
