@@ -5,47 +5,6 @@ http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300
 #EXTINF:-1,Sport Tv Americas
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 
-#EXTINF:-1,BENFICA TV 1 HD
-http://tvdasogra.com:8880/live/trial/trial_021/502.ts
-#EXTINF:-1,BENFICA TV 2
-http://tvdasogra.com:8880/live/trial/trial_021/501.ts
-#EXTINF:-1,SPORT TV 1 HD
-http://tvdasogra.com:8880/live/trial/trial_021/517.ts
-#EXTINF:-1,SPORT TV 2 
-http://tvdasogra.com:8880/live/trial/trial_021/524.ts
-#EXTINF:-1,SPORT TV 3
-http://tvdasogra.com:8880/live/trial/trial_021/506.ts
-#EXTINF:-1,SPORT TV 4
-http://tvdasogra.com:8880/live/trial/trial_021/519.ts
-#EXTINF:-1,SPORT TV 5
-http://tvdasogra.com:8880/live/trial/trial_021/505.ts
-#EXTINF:-1,TV CINE 1
-http://tvdasogra.com:8880/live/trial/trial_021/262.ts
-#EXTINF:-1,TV CINE 2
-http://tvdasogra.com:8880/live/trial/trial_021/263.ts
-#EXTINF:-1,TV CINE 3
-http://tvdasogra.com:8880/live/trial/trial_021/264.ts
-#EXTINF:-1,TV CINE 4
-http://tvdasogra.com:8880/live/trial/trial_021/265.ts
-#EXTINF:-1,TV SERIES
-http://tvdasogra.com:8880/live/trial/trial_021/469.ts
-#EXTINF:-1,MOV HD
-http://tvdasogra.com:8880/live/trial/trial_021/482.ts
-#EXTINF:-1,ANX HD
-http://tvdasogra.com:8880/live/trial/trial_021/276.ts
-#EXTINF:-1,FOX HD
-http://tvdasogra.com:8880/live/trial/trial_021/278.ts
-#EXTINF:-1,CMTV
-http://tvdasogra.com:8880/live/trial/trial_021/514.ts
-#EXTINF:-1,BOLA TV
-http://tvdasogra.com:8880/live/trial/trial_021/515.ts
-#EXTINF:-1,DIYSNEY JUNIOR
-http://tvdasogra.com:8880/live/trial/trial_021/218.ts
-#EXTINF:-1,PANDA
-http://tvdasogra.com:8880/live/trial/trial_021/225.ts
-#EXTINF:-1,TVI FICÇÃO
-http://tvdasogra.com:8880/live/trial/trial_021/456.ts
-
 #EXTINF:-1,Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 #EXTINF:-1,Telekanal
