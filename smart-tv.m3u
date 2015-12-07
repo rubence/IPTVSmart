@@ -6,6 +6,8 @@ http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 
 #EXTINF:-1,Benfica TV 1
+http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b2628000.m3u8
+#EXTINF:-1,Benfica TV 1
 http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b1328000.m3u8
 
 #EXTINF:-1,Sport TV 1
@@ -642,13 +644,19 @@ http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avata
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
 
 #EXTINF:-1,RTP 1
-http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
 #EXTINF:-1,RTP 1
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/livestream.m3u8
+http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
+#EXTINF:-1,RTP 2
+http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
 #EXTINF:-1,RTP 2
 http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8
 #EXTINF:-1,SIC
+http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
+#EXTINF:-1,SIC
 http://213.13.26.11:1935/live/sic/Cookiemonster.m3u8
+#EXTINF:-1,TVI
+http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
 #EXTINF:-1,TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 #EXTINF:-1,TVI
