@@ -5,6 +5,9 @@ http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300
 #EXTINF:-1,Sport Tv Americas
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 
+#EXTINF:-1,Benfica TV 1
+http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b1328000.m3u8
+
 #EXTINF:-1,Sport TV 1
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 #EXTINF:-1,Sport TV 2
