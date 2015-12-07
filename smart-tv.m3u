@@ -14,33 +14,33 @@ http://31.204.128.112:8081/live/portugal3/playlist.m3u8
 
 #EXTINF:-1,BT Sport 1
 http://02e4.vp9.tv/chn/btsu1/v.m3u8
-#EXTINF:-1,BT Sport 1
+#EXTINF:-1,BT Sport 2
 http://02e4.vp9.tv/chn/btsu2/v.m3u8
 
-#EXTINF:244, Sky Bundesliga 1 HD (Спортивные)
+#EXTINF:-1,Sky Bundesliga 1 HD (Спортивные)
 http://91.204.214.106:23321/stolen/512u/sality.lzh
-#EXTINF:245, Sky Bundesliga 2 HD (Спортивные)
+#EXTINF:-1,Sky Bundesliga 2 HD (Спортивные)
 http://91.204.214.106:5007/j
-#EXTINF:246, Sky Bundesliga 3 HD (Спортивные)
+#EXTINF:-1,Sky Bundesliga 3 HD (Спортивные)
 http://91.204.214.106:5002/q
-#EXTINF:247, Sky Bundesliga 4 HD (Спортивные)
+#EXTINF:-1,Sky Bundesliga 4 HD (Спортивные)
 http://91.204.214.106:5005/e
-#EXTINF:248, Sky Bundesliga 5 HD (Спортивные)
+#EXTINF:-1,Sky Bundesliga 5 HD (Спортивные)
 http://91.204.214.106:5009/s
-#EXTINF:249, Sky Bundesliga 6 HD (Спортивные)
+#EXTINF:-1,Sky Bundesliga 6 HD (Спортивные)
 http://91.204.214.106:5008/a
-#EXTINF:250, Sky Sport 1 HD Deutschland (Спортивные)
+#EXTINF:-1, Sky Sport 1 HD Deutschland (Спортивные)
 http://91.204.214.106:23341/stolen/519d/delete.programm32_start.nsis
-#EXTINF:251, Sky Sport 2 HD Deutschland (Спортивные)
+#EXTINF:-1, Sky Sport 2 HD Deutschland (Спортивные)
 http://91.204.214.106:23341/stolen/520f/delete.programm32_start.nsis
 
-#EXTINF:0,ArenaSport1
+#EXTINF:-1,ArenaSport1
 http://91.204.214.106:23201/stolen/268u/xenixos.7z
-#EXTINF:0,ArenaSport3
+#EXTINF:-1,ArenaSport3
 http://91.204.214.106:23201/stolen/265r/xenixos.7z
-#EXTINF:0,ArenaSport4
+#EXTINF:-1,ArenaSport4
 http://91.204.214.106:23201/stolen/266t/xenixos.7z
-#EXTINF:0,ArenaSport5
+#EXTINF:-1,ArenaSport5
 http://91.204.214.106:23201/stolen/269i/xenixos.7z
 
 #EXTINF:-1,Telekanal
