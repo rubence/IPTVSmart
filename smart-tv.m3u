@@ -668,5 +668,404 @@ http://37.203.209.34:443/mobile/bob39/live.m3u8
 #EXTINF:-1,Disney Junior BR
 http://37.203.209.34:443/mobile/flash42sd/IPTVGLOBAL.m3u8
 
-
+#EXTINF:0,ESPN
+http://iptvcanales.com/xw/cable.php?canal=33&player=playlist.m3u8
+#EXTINF:0,ESPN 2
+http://iptvcanales.com/xw/cable.php?canal=34&player=playlist.m3u8
+#EXTINF:0,ESPN 3
+http://iptvcanales.com/xw/cable.php?canal=35&player=playlist.m3u8
+#EXTINF:0,Fox Sports
+http://iptvcanales.com/xw/cable.php?canal=32&player=playlist.m3u8
+#EXTINF:0,NFL Network
+http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
+#EXTINF:0,Bein Sports USA
+http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
+#EXTINF:0,Bein Sports Espanol
+http://iptvcanales.com/xw/cable.php?canal=56&player=playlist.m3u8
+#EXTINF:0,TyC Sports
+http://iptvcanales.com/xw/cable.php?canal=31&player=playlist.m3u8
+#EXTINF:0,Telehit
+http://iptvcanales.com/xw/cable.php?canal=36&player=playlist.m3u8
+#EXTINF:0,Bandamax
+http://iptvcanales.com/xw/cable.php?canal=39&player=playlist.m3u8
+#EXTINF:0,Ritmoson
+http://iptvcanales.com/xw/cable.php?canal=42&player=playlist.m3u8
+#EXTINF:0,MTV Live HD
+http://iptvcanales.com/xw/cable.php?canal=97&player=playlist.m3u8
+#EXTINF:0,MTV Latino
+http://iptvcanales.com/xw/cable.php?canal=99&player=playlist.m3u8
+#EXTINF:0,VH1 HD
+http://iptvcanales.com/xw/cable.php?canal=98&player=playlist.m3u8
+#EXTINF:0,VH1 Classic Europe
+http://iptvcanales.com/xw/cable.php?canal=96&player=playlist.m3u8
+#EXTINF:0,TVN HD
+http://iptvcanales.com/xw/cable.php?canal=64&player=playlist.m3u8
+#EXTINF:0,Azteca Noticias
+http://iptvcanales.com/xw/cable.php?canal=61&player=playlist.m3u8
+#EXTINF:0,Canal Azteca 13 (Mexico)
+http://iptvcanales.com/xw/cable.php?canal=08&player=playlist.m3u8
+#EXTINF:0,Canal De Las Estrellas
+http://iptvcanales.com/xw/cable.php?canal=03&player=playlist.m3u8
+#EXTINF:0,Canal 5 de Mexico (XHGC)
+http://iptvcanales.com/xw/cable.php?canal=04&player=playlist.m3u8
+#EXTINF:0,Canal Azteca Honduras
+http://iptvcanales.com/xw/cable.php?canal=60&player=playlist.m3u8
+#EXTINF:0,Azteca 7
+http://iptvcanales.com/xw/cable.php?canal=06&player=playlist.m3u8
+#EXTINF:0,Gala TV Cancun
+http://iptvcanales.com/xw/cable.php?canal=45&player=playlist.m3u8
+#EXTINF:0,Gala TV
+http://iptvcanales.com/xw/cable.php?canal=11&player=playlist.m3u8
+#EXTINF:0,Cadena 3
+http://iptvcanales.com/xw/cable.php?canal=05&player=playlist.m3u8
+#EXTINF:0,Proyecto 40
+http://iptvcanales.com/xw/cable.php?canal=43&player=playlist.m3u8
+#EXTINF:0,Once TV
+http://iptvcanales.com/xw/cable.php?canal=07&player=playlist.m3u8
+#EXTINF:0,FORO TV
+http://iptvcanales.com/xw/cable.php?canal=44&player=playlist.m3u8
+#EXTINF:0,Canal 52MX
+http://iptvcanales.com/xw/cable.php?canal=09&player=playlist.m3u8
+#EXTINF:0,Multimedios Plus
+http://iptvcanales.com/xw/cable.php?canal=47&player=playlist.m3u8
+#EXTINF:0,Canal 44 Ciudad Juarez
+http://iptvcanales.com/xw/cable.php?canal=48&player=playlist.m3u8
+#EXTINF:0,Teleformula
+http://iptvcanales.com/xw/cable.php?canal=69&player=playlist.m3u8
+#EXTINF:0,AZ Corazon
+http://iptvcanales.com/xw/cable.php?canal=79&player=playlist.m3u8
+#EXTINF:0,Tlnovelas
+http://iptvcanales.com/xw/cable.php?canal=13&player=playlist.m3u8
+#EXTINF:0,Tru TV
+http://iptvcanales.com/xw/cable.php?canal=72&player=playlist.m3u8
+#EXTINF:0,A&E
+http://iptvcanales.com/xw/cable.php?canal=26&player=playlist.m3u8
+#EXTINF:0,Lifetime
+http://iptvcanales.com/xw/cable.php?canal=55&player=playlist.m3u8
+#EXTINF:0,History
+http://iptvcanales.com/xw/cable.php?canal=38&player=playlist.m3u8
+#EXTINF:0,National Geographic
+http://iptvcanales.com/xw/cable.php?canal=37&player=playlist.m3u8
+#EXTINF:0,Discovery Home & Health
+http://iptvcanales.com/xw/cable.php?canal=95&player=playlist.m3u8
+#EXTINF:0,Animal Planet
+http://iptvcanales.com/xw/cable.php?canal=83&player=playlist.m3u8
+#EXTINF:0,Investigation Discovery
+http://iptvcanales.com/xw/cable.php?canal=84&player=playlist.m3u8
+#EXTINF:0,Fox
+http://iptvcanales.com/xw/cable.php?canal=01&player=playlist.m3u8
+#EXTINF:0,Syfy
+http://iptvcanales.com/xw/cable.php?canal=02&player=playlist.m3u8
+#EXTINF:0,FOX Life
+http://iptvcanales.com/xw/cable.php?canal=27&player=playlist.m3u8
+#EXTINF:0,Distrito Comedia
+http://iptvcanales.com/xw/cable.php?canal=40&player=playlist.m3u8
+#EXTINF:0,Canal Sony
+http://iptvcanales.com/xw/cable.php?canal=14&player=playlist.m3u8
+#EXTINF:0,Warner Channel
+http://iptvcanales.com/xw/cable.php?canal=18&player=playlist.m3u8
+#EXTINF:0,Studio Universal
+http://iptvcanales.com/xw/cable.php?canal=70&player=playlist.m3u8
+#EXTINF:0,AXN
+http://iptvcanales.com/xw/cable.php?canal=71&player=playlist.m3u8
+#EXTINF:0,Comedy Central
+http://iptvcanales.com/xw/cable.php?canal=73&player=playlist.m3u8
+#EXTINF:0,BBC Entertainment
+http://iptvcanales.com/xw/cable.php?canal=74&player=playlist.m3u8
+#EXTINF:0,Universal Channel
+http://iptvcanales.com/xw/cable.php?canal=75&player=playlist.m3u8
+#EXTINF:0,TNT Series
+http://iptvcanales.com/xw/cable.php?canal=76&player=playlist.m3u8
+#EXTINF:0,TBS
+http://iptvcanales.com/xw/cable.php?canal=77&player=playlist.m3u8
+#EXTINF:0,I-Sat
+http://iptvcanales.com/xw/cable.php?canal=78&player=playlist.m3u8
+#EXTINF:0,WOBI TV
+http://iptvcanales.com/xw/cable.php?canal=25&player=playlist.m3u8
+#EXTINF:0,E!
+http://iptvcanales.com/xw/cable.php?canal=12&player=playlist.m3u8
+#EXTINF:0,SPACE
+http://iptvcanales.com/xw/cable.php?canal=21&player=playlist.m3u8
+#EXTINF:0,FX
+http://iptvcanales.com/xw/cable.php?canal=17&player=playlist.m3u8
+#EXTINF:0,AZ Cinema
+http://iptvcanales.com/xw/cable.php?canal=85&player=playlist.m3u8
+#EXTINF:0,Fox 1 Oeste
+http://iptvcanales.com/xw/cable.php?canal=86&player=playlist.m3u8
+#EXTINF:0,Fox Movies
+http://iptvcanales.com/xw/cable.php?canal=87&player=playlist.m3u8
+#EXTINF:0,Fox Movies
+http://iptvcanales.com/xw/cable.php?canal=88&player=playlist.m3u8
+#EXTINF:0,Fox Cinema
+http://iptvcanales.com/xw/cable.php?canal=89&player=playlist.m3u8
+#EXTINF:0,Fox Family
+http://iptvcanales.com/xw/cable.php?canal=90&player=playlist.m3u8
+#EXTINF:0,CineCanal
+http://iptvcanales.com/xw/cable.php?canal=91&player=playlist.m3u8
+#EXTINF:0,TNT
+http://iptvcanales.com/xw/cable.php?canal=92&player=playlist.m3u8
+#EXTINF:0,Film Zone
+http://iptvcanales.com/xw/cable.php?canal=93&player=playlist.m3u8
+#EXTINF:0,AMC
+http://iptvcanales.com/xw/cable.php?canal=94&player=playlist.m3u8
+#EXTINF:0,Cinemax
+http://iptvcanales.com/xw/cable.php?canal=15&player=playlist.m3u8
+#EXTINF:0,Paramount Channel
+http://iptvcanales.com/xw/cable.php?canal=16&player=playlist.m3u8
+#EXTINF:0,Golden
+http://iptvcanales.com/xw/cable.php?canal=19&player=playlist.m3u8
+#EXTINF:0,Golden Edge
+http://iptvcanales.com/xw/cable.php?canal=20&player=playlist.m3u8
+#EXTINF:0,Multicinema
+http://iptvcanales.com/xw/cable.php?canal=22&player=playlist.m3u8
+#EXTINF:0,De Pelicula
+http://iptvcanales.com/xw/cable.php?canal=23&player=playlist.m3u8
+#EXTINF:0,Canal DHE
+http://iptvcanales.com/xw/cable.php?canal=24&player=playlist.m3u8
+#EXTINF:0,Nickelodeon
+http://iptvcanales.com/xw/cable.php?canal=28&player=playlist.m3u8
+#EXTINF:0,Cartoon Network
+http://iptvcanales.com/xw/cable.php?canal=29&player=playlist.m3u8
+#EXTINF:0,Disney XD
+http://iptvcanales.com/xw/cable.php?canal=30&player=playlist.m3u8
+#EXTINF:0,Discovery Kids
+http://iptvcanales.com/xw/cable.php?canal=80&player=playlist.m3u8
+#EXTINF:0,Tooncast
+http://iptvcanales.com/xw/cable.php?canal=81&player=playlist.m3u8
+#EXTINF:0,Milenio TV
+http://iptvcanales.com/xw/cable.php?canal=41&player=playlist.m3u8
+#EXTINF:0,RT Espanol
+http://iptvcanales.com/xw/cable.php?canal=46&player=playlist.m3u8
+#EXTINF:0,Excelsior TV
+http://iptvcanales.com/xw/cable.php?canal=50&player=playlist.m3u8
+#EXTINF:0,Unicable
+http://iptvcanales.com/xw/cable.php?canal=10&player=playlist.m3u8
+#EXTINF:0,Telemundo
+http://iptvcanales.com/xw/cable.php?canal=51&player=playlist.m3u8
+#EXTINF:0,Antena
+http://iptvcanales.com/xw/cable.php?canal=53&player=playlist.m3u8
+#EXTINF:0,La 2
+http://iptvcanales.com/xw/cable.php?canal=66&player=playlist.m3u8
+#EXTINF:0,Euronews
+http://iptvcanales.com/xw/cable.php?canal=68&player=playlist.m3u8
+#EXTINF:0,Mega
+http://iptvcanales.com/xw/cable.php?canal=54&player=playlist.m3u8
+#EXTINF:0,Telefe
+http://iptvcanales.com/xw/cable.php?canal=52&player=playlist.m3u8
+#EXTINF:0,Canal 42
+http://iptvcanales.com/xw/cable.php?canal=49&player=playlist.m3u8
+#EXTINF:0,Canal 6
+http://iptvcanales.com/xw/cable.php?canal=58&player=playlist.m3u8
+#EXTINF:0,Teletica 7
+http://iptvcanales.com/xw/cable.php?canal=59&player=playlist.m3u8
+#EXTINF:0,Canal 9
+http://iptvcanales.com/xw/cable.php?canal=60&player=playlist.m3u8
+#EXTINF:0,Colosal
+http://iptvcanales.com/xw/cable.php?canal=61&player=playlist.m3u8
+#EXTINF:0,TVUno
+http://iptvcanales.com/xw/cable.php?canal=62&player=playlist.m3u8
+#EXTINF:0,XperTV
+http://iptvcanales.com/xw/cable.php?canal=63&player=playlist.m3u8
+#EXTINF:0,Positive Channel
+http://iptvcanales.com/xw/cable.php?canal=65&player=playlist.m3u8
+#EXTINF:0,ESPN
+http://iptvcanales.com/xw/cable.php?canal=33&player=playlist.m3u8
+#EXTINF:0,ESPN 2
+http://iptvcanales.com/xw/cable.php?canal=34&player=playlist.m3u8
+#EXTINF:0,ESPN 3
+http://iptvcanales.com/xw/cable.php?canal=35&player=playlist.m3u8
+#EXTINF:0,Fox Sports
+http://iptvcanales.com/xw/cable.php?canal=32&player=playlist.m3u8
+#EXTINF:0,NFL Network
+http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
+#EXTINF:0,Bein Sports USA
+http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
+#EXTINF:0,Bein Sports Espanol
+http://iptvcanales.com/xw/cable.php?canal=56&player=playlist.m3u8
+#EXTINF:0,TyC Sports
+http://iptvcanales.com/xw/cable.php?canal=31&player=playlist.m3u8
+#EXTINF:0,Telehit
+http://iptvcanales.com/xw/cable.php?canal=36&player=playlist.m3u8
+#EXTINF:0,Bandamax
+http://iptvcanales.com/xw/cable.php?canal=39&player=playlist.m3u8
+#EXTINF:0,Ritmoson
+http://iptvcanales.com/xw/cable.php?canal=42&player=playlist.m3u8
+#EXTINF:0,MTV Live HD
+http://iptvcanales.com/xw/cable.php?canal=97&player=playlist.m3u8
+#EXTINF:0,MTV Latino
+http://iptvcanales.com/xw/cable.php?canal=99&player=playlist.m3u8
+#EXTINF:0,VH1 HD
+http://iptvcanales.com/xw/cable.php?canal=98&player=playlist.m3u8
+#EXTINF:0,VH1 Classic Europe
+http://iptvcanales.com/xw/cable.php?canal=96&player=playlist.m3u8
+#EXTINF:0,TVN HD
+http://iptvcanales.com/xw/cable.php?canal=64&player=playlist.m3u8
+#EXTINF:0,Azteca Noticias
+http://iptvcanales.com/xw/cable.php?canal=61&player=playlist.m3u8
+#EXTINF:0,Canal Azteca 13 (Mexico)
+http://iptvcanales.com/xw/cable.php?canal=08&player=playlist.m3u8
+#EXTINF:0,Canal De Las Estrellas
+http://iptvcanales.com/xw/cable.php?canal=03&player=playlist.m3u8
+#EXTINF:0,Canal 5 de Mexico (XHGC)
+http://iptvcanales.com/xw/cable.php?canal=04&player=playlist.m3u8
+#EXTINF:0,Canal Azteca Honduras
+http://iptvcanales.com/xw/cable.php?canal=60&player=playlist.m3u8
+#EXTINF:0,Azteca 7
+http://iptvcanales.com/xw/cable.php?canal=06&player=playlist.m3u8
+#EXTINF:0,Gala TV Cancun
+http://iptvcanales.com/xw/cable.php?canal=45&player=playlist.m3u8
+#EXTINF:0,Gala TV
+http://iptvcanales.com/xw/cable.php?canal=11&player=playlist.m3u8
+#EXTINF:0,Cadena 3
+http://iptvcanales.com/xw/cable.php?canal=05&player=playlist.m3u8
+#EXTINF:0,Proyecto 40
+http://iptvcanales.com/xw/cable.php?canal=43&player=playlist.m3u8
+#EXTINF:0,Once TV
+http://iptvcanales.com/xw/cable.php?canal=07&player=playlist.m3u8
+#EXTINF:0,FORO TV
+http://iptvcanales.com/xw/cable.php?canal=44&player=playlist.m3u8
+#EXTINF:0,Canal 52MX
+http://iptvcanales.com/xw/cable.php?canal=09&player=playlist.m3u8
+#EXTINF:0,Multimedios Plus
+http://iptvcanales.com/xw/cable.php?canal=47&player=playlist.m3u8
+#EXTINF:0,Canal 44 Ciudad Juarez
+http://iptvcanales.com/xw/cable.php?canal=48&player=playlist.m3u8
+#EXTINF:0,Teleformula
+http://iptvcanales.com/xw/cable.php?canal=69&player=playlist.m3u8
+#EXTINF:0,AZ Corazon
+http://iptvcanales.com/xw/cable.php?canal=79&player=playlist.m3u8
+#EXTINF:0,Tlnovelas
+http://iptvcanales.com/xw/cable.php?canal=13&player=playlist.m3u8
+#EXTINF:0,Tru TV
+http://iptvcanales.com/xw/cable.php?canal=72&player=playlist.m3u8
+#EXTINF:0,A&E
+http://iptvcanales.com/xw/cable.php?canal=26&player=playlist.m3u8
+#EXTINF:0,Lifetime
+http://iptvcanales.com/xw/cable.php?canal=55&player=playlist.m3u8
+#EXTINF:0,History
+http://iptvcanales.com/xw/cable.php?canal=38&player=playlist.m3u8
+#EXTINF:0,National Geographic
+http://iptvcanales.com/xw/cable.php?canal=37&player=playlist.m3u8
+#EXTINF:0,Discovery Home & Health
+http://iptvcanales.com/xw/cable.php?canal=95&player=playlist.m3u8
+#EXTINF:0,Animal Planet
+http://iptvcanales.com/xw/cable.php?canal=83&player=playlist.m3u8
+#EXTINF:0,Investigation Discovery
+http://iptvcanales.com/xw/cable.php?canal=84&player=playlist.m3u8
+#EXTINF:0,Fox
+http://iptvcanales.com/xw/cable.php?canal=01&player=playlist.m3u8
+#EXTINF:0,Syfy
+http://iptvcanales.com/xw/cable.php?canal=02&player=playlist.m3u8
+#EXTINF:0,FOX Life
+http://iptvcanales.com/xw/cable.php?canal=27&player=playlist.m3u8
+#EXTINF:0,Distrito Comedia
+http://iptvcanales.com/xw/cable.php?canal=40&player=playlist.m3u8
+#EXTINF:0,Canal Sony
+http://iptvcanales.com/xw/cable.php?canal=14&player=playlist.m3u8
+#EXTINF:0,Warner Channel
+http://iptvcanales.com/xw/cable.php?canal=18&player=playlist.m3u8
+#EXTINF:0,Studio Universal
+http://iptvcanales.com/xw/cable.php?canal=70&player=playlist.m3u8
+#EXTINF:0,AXN
+http://iptvcanales.com/xw/cable.php?canal=71&player=playlist.m3u8
+#EXTINF:0,Comedy Central
+http://iptvcanales.com/xw/cable.php?canal=73&player=playlist.m3u8
+#EXTINF:0,BBC Entertainment
+http://iptvcanales.com/xw/cable.php?canal=74&player=playlist.m3u8
+#EXTINF:0,Universal Channel
+http://iptvcanales.com/xw/cable.php?canal=75&player=playlist.m3u8
+#EXTINF:0,TNT Series
+http://iptvcanales.com/xw/cable.php?canal=76&player=playlist.m3u8
+#EXTINF:0,TBS
+http://iptvcanales.com/xw/cable.php?canal=77&player=playlist.m3u8
+#EXTINF:0,I-Sat
+http://iptvcanales.com/xw/cable.php?canal=78&player=playlist.m3u8
+#EXTINF:0,WOBI TV
+http://iptvcanales.com/xw/cable.php?canal=25&player=playlist.m3u8
+#EXTINF:0,E!
+http://iptvcanales.com/xw/cable.php?canal=12&player=playlist.m3u8
+#EXTINF:0,SPACE
+http://iptvcanales.com/xw/cable.php?canal=21&player=playlist.m3u8
+#EXTINF:0,FX
+http://iptvcanales.com/xw/cable.php?canal=17&player=playlist.m3u8
+#EXTINF:0,AZ Cinema
+http://iptvcanales.com/xw/cable.php?canal=85&player=playlist.m3u8
+#EXTINF:0,Fox 1 Oeste
+http://iptvcanales.com/xw/cable.php?canal=86&player=playlist.m3u8
+#EXTINF:0,Fox Movies
+http://iptvcanales.com/xw/cable.php?canal=87&player=playlist.m3u8
+#EXTINF:0,Fox Movies
+http://iptvcanales.com/xw/cable.php?canal=88&player=playlist.m3u8
+#EXTINF:0,Fox Cinema
+http://iptvcanales.com/xw/cable.php?canal=89&player=playlist.m3u8
+#EXTINF:0,Fox Family
+http://iptvcanales.com/xw/cable.php?canal=90&player=playlist.m3u8
+#EXTINF:0,CineCanal
+http://iptvcanales.com/xw/cable.php?canal=91&player=playlist.m3u8
+#EXTINF:0,TNT
+http://iptvcanales.com/xw/cable.php?canal=92&player=playlist.m3u8
+#EXTINF:0,Film Zone
+http://iptvcanales.com/xw/cable.php?canal=93&player=playlist.m3u8
+#EXTINF:0,AMC
+http://iptvcanales.com/xw/cable.php?canal=94&player=playlist.m3u8
+#EXTINF:0,Cinemax
+http://iptvcanales.com/xw/cable.php?canal=15&player=playlist.m3u8
+#EXTINF:0,Paramount Channel
+http://iptvcanales.com/xw/cable.php?canal=16&player=playlist.m3u8
+#EXTINF:0,Golden
+http://iptvcanales.com/xw/cable.php?canal=19&player=playlist.m3u8
+#EXTINF:0,Golden Edge
+http://iptvcanales.com/xw/cable.php?canal=20&player=playlist.m3u8
+#EXTINF:0,Multicinema
+http://iptvcanales.com/xw/cable.php?canal=22&player=playlist.m3u8
+#EXTINF:0,De Pelicula
+http://iptvcanales.com/xw/cable.php?canal=23&player=playlist.m3u8
+#EXTINF:0,Canal DHE
+http://iptvcanales.com/xw/cable.php?canal=24&player=playlist.m3u8
+#EXTINF:0,Nickelodeon
+http://iptvcanales.com/xw/cable.php?canal=28&player=playlist.m3u8
+#EXTINF:0,Cartoon Network
+http://iptvcanales.com/xw/cable.php?canal=29&player=playlist.m3u8
+#EXTINF:0,Disney XD
+http://iptvcanales.com/xw/cable.php?canal=30&player=playlist.m3u8
+#EXTINF:0,Discovery Kids
+http://iptvcanales.com/xw/cable.php?canal=80&player=playlist.m3u8
+#EXTINF:0,Tooncast
+http://iptvcanales.com/xw/cable.php?canal=81&player=playlist.m3u8
+#EXTINF:0,Milenio TV
+http://iptvcanales.com/xw/cable.php?canal=41&player=playlist.m3u8
+#EXTINF:0,RT Espanol
+http://iptvcanales.com/xw/cable.php?canal=46&player=playlist.m3u8
+#EXTINF:0,Excelsior TV
+http://iptvcanales.com/xw/cable.php?canal=50&player=playlist.m3u8
+#EXTINF:0,Unicable
+http://iptvcanales.com/xw/cable.php?canal=10&player=playlist.m3u8
+#EXTINF:0,Telemundo
+http://iptvcanales.com/xw/cable.php?canal=51&player=playlist.m3u8
+#EXTINF:0,Antena
+http://iptvcanales.com/xw/cable.php?canal=53&player=playlist.m3u8
+#EXTINF:0,La 2
+http://iptvcanales.com/xw/cable.php?canal=66&player=playlist.m3u8
+#EXTINF:0,Euronews
+http://iptvcanales.com/xw/cable.php?canal=68&player=playlist.m3u8
+#EXTINF:0,Mega
+http://iptvcanales.com/xw/cable.php?canal=54&player=playlist.m3u8
+#EXTINF:0,Telefe
+http://iptvcanales.com/xw/cable.php?canal=52&player=playlist.m3u8
+#EXTINF:0,Canal 42
+http://iptvcanales.com/xw/cable.php?canal=49&player=playlist.m3u8
+#EXTINF:0,Canal 6
+http://iptvcanales.com/xw/cable.php?canal=58&player=playlist.m3u8
+#EXTINF:0,Teletica 7
+http://iptvcanales.com/xw/cable.php?canal=59&player=playlist.m3u8
+#EXTINF:0,Canal 9
+http://iptvcanales.com/xw/cable.php?canal=60&player=playlist.m3u8
+#EXTINF:0,Colosal
+http://iptvcanales.com/xw/cable.php?canal=61&player=playlist.m3u8
+#EXTINF:0,TVUno
+http://iptvcanales.com/xw/cable.php?canal=62&player=playlist.m3u8
+#EXTINF:0,XperTV
+http://iptvcanales.com/xw/cable.php?canal=63&player=playlist.m3u8
+#EXTINF:0,Positive Channel
+http://iptvcanales.com/xw/cable.php?canal=65&player=playlist.m3u8
 
