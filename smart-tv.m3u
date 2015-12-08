@@ -61,6 +61,8 @@ http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fc
 http://origin2.live.web.tv.streamprovider.net/streams/84553722f218dda44aab91b4ae0c2d42/index.m3u8
 #EXTINF:-1,RAI 3
 http://origin2.live.web.tv.streamprovider.net/streams/2946613af1f663bb5b4164131b8c9413/index.m3u8
+#EXTINF:0,RAI 5
+http://stream12.rai.it:80/live/rai5.smil/chunklist_b1500000.m3u8
 
 #EXTINF:-1,NHK World
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
@@ -74,9 +76,9 @@ http://origin2.live.web.tv.streamprovider.net/streams/121612976e4808528d2ba7edc4
 #EXTINF:-1,RAI Cultura
 http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
 #EXTINF:-1,Rai Movie
-http://stream10.rai.it/italy/raimovie.smil/playlist.m3u8
+http://stream10.rai.it:80/italy/raimovie.smil/chunklist_b1800000.m3u8
 #EXTINF:-1,RAI YoYo
-http://stream10.rai.it/italy/raiyoyo.smil/playlist.m3u8
+http://stream10.rai.it:80/italy/raiyoyo.smil/chunklist_b1800000.m3u8
 #EXTINF:-1,TSN
 http://fms.shared.streamshow.it:1935/tsn/tsn/live.m3u8
 
