@@ -106,8 +106,6 @@ http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
 
 #EXTINF:-1,IRAK Iraqiya Sport
 http://212.7.205.5:1935/sport/live/Cookiemonster.m3u8
-#EXTINF:-1,NFL Network
-http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
 #EXTINF:-1,Nbc Sports Golf
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1,Sport Time TV 1
@@ -154,11 +152,6 @@ mms://100automoto.tv/channel_italy
 mms://100automoto.tv/channel_mercedes
 #EXTINF:-1,Porsche
 mms://100automoto.tv/channel_porsche
-
-#EXTINF:-1,SyfY
-http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
-#EXTINF:-1,Sci-Fi Series and Movies
-http://iphone-streaming.ustream.tv/ustreamVideo/20752580/streams/live/playlist.m3u8
 
 #EXTINF:-1,TVE1
 http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
