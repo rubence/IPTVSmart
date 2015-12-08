@@ -599,17 +599,10 @@ http://212.19.7.91:8888/udp/239.191.254.75:13343
 #EXTINF:-1 audio-track="eng",Viasat Nature
 http://212.19.7.91:8888/udp/239.191.254.79:13343
 
-#EXTINF:-1,Redlight HD
-http://46.47.0.238:8890/rtp/224.244.244.157:19993
-#EXTINF:-1,Hustler HD
-http://46.47.0.238:8890/rtp/224.244.244.158:19993
-
 #EXTINF:-1,Passie XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
 #EXTINF:-1,Japan Hot
 rtmp://edge2.everyon.tv/etv2/pld1008
-#EXTINF:-1,Evt
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
 #EXTINF:-1,Asian Porn 1
 http://edge2.everyon.tv/etv2/pld1003/Cookiemonster.m3u8
 #EXTINF:-1,Asian Porn 2
