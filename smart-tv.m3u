@@ -56,6 +56,12 @@ http://balkanstream.com/stream/arenasport5sr/sead/sead
 http://balkanstream.com/stream/eurosport1/sead/sead
 #EXTINF:0,Eurosport 2
 http://balkanstream.com/stream/eurosport2/sead/sead
+#‎EXTINF‬:0, SportKlub 1 HR
+http://balkanstream.com/stream/sportklub1hr/sead/sead
+#EXTINF:0, SportKlub 2 HR
+http://balkanstream.com/stream/sportklub2hr/sead/sead
+#EXTINF:0, SportKlub 3 HR
+http://balkanstream.com/stream/sportklub3hr/sead/sead
 #EXTINF:-1 REDLİGHT HD
 http://balkanstream.com/stream/XXX1/sead/sead
 #EXTINF:-1 Hustler HD
