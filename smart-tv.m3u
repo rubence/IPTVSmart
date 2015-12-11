@@ -17,56 +17,6 @@ http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 #EXTINF:-1,Sport TV 3 / BTV2
 http://31.204.128.112:8081/live/portugal3/playlist.m3u8
 
-#EXTINF:-1,ArenaSport1
-http://91.204.214.106:23201/stolen/268u/xenixos.7z
-#EXTINF:-1,ArenaSport3
-http://91.204.214.106:23201/stolen/265r/xenixos.7z
-#EXTINF:-1,ArenaSport4
-http://91.204.214.106:23201/stolen/266t/xenixos.7z
-#EXTINF:-1,ArenaSport5
-http://91.204.214.106:23201/stolen/269i/xenixos.7z
-
-#EXTINF‬:0,SKY Bundesliga DE
-http://balkanstream.com/stream/SKYbundes/sead/sead
-#EXTINF:0,SKY Sport 1 DE
-http://balkanstream.com/stream/SKYsport01/sead/sead
-#EXTINF:0,SKY Sport 2 DE
-http://balkanstream.com/stream/SKYsport02/sead/sead
-#EXTINF:0,Arena Sport 1 HR
-http://balkanstream.com/stream/arenasport1HR/sead/sead
-#EXTINF:0,Arena Sport 2 HR
-http://balkanstream.com/stream/arenasport2HR/sead/sead
-#EXTINF:0,Arena Sport 3 HR
-http://balkanstream.com/stream/arenasport3HR/sead/sead
-#EXTINF:0,Arena Sport 4 HR
-http://balkanstream.com/stream/arenasport4HR/sead/sead
-#EXTINF:0,Arena Sport 5 HR
-http://balkanstream.com/stream/arenasport5HR/sead/sead
-#EXTINF:0,Arena Sport 1 SR
-http://balkanstream.com/stream/arenasport1sr/sead/sead
-#EXTINF:0,Arena Sport 2 SR
-http://balkanstream.com/stream/arenasport2sr/sead/sead
-#EXTINF:0,Arena Sport 3 SR
-http://balkanstream.com/stream/arenasport3sr/sead/sead
-#EXTINF:0,Arena Sport 4 SR
-http://balkanstream.com/stream/arenasport4sr/sead/sead
-#EXTINF:0,Arena Sport 5 SR
-http://balkanstream.com/stream/arenasport5sr/sead/sead
-#EXTINF:0,Eurosport 1
-http://balkanstream.com/stream/eurosport1/sead/sead
-#EXTINF:0,Eurosport 2
-http://balkanstream.com/stream/eurosport2/sead/sead
-#‎EXTINF‬:0, SportKlub 1 HR
-http://balkanstream.com/stream/sportklub1hr/sead/sead
-#EXTINF:0, SportKlub 2 HR
-http://balkanstream.com/stream/sportklub2hr/sead/sead
-#EXTINF:0, SportKlub 3 HR
-http://balkanstream.com/stream/sportklub3hr/sead/sead
-#EXTINF:-1 REDLİGHT HD
-http://balkanstream.com/stream/XXX1/sead/sead
-#EXTINF:-1 Hustler HD
-http://balkanstream.com/stream/XXX2/sead/sead
-
 #EXTINF:-1,Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 #EXTINF:-1,Telekanal
