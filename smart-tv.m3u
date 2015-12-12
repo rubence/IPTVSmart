@@ -102,8 +102,12 @@ http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fc
 http://origin2.live.web.tv.streamprovider.net/streams/84553722f218dda44aab91b4ae0c2d42/index.m3u8
 #EXTINF:-1,RAI 3
 http://origin2.live.web.tv.streamprovider.net/streams/2946613af1f663bb5b4164131b8c9413/index.m3u8
+#EXTINF:-1,RAI 4
+http://212.162.68.163/rai4
 #EXTINF:0,RAI 5
 http://stream12.rai.it:80/live/rai5.smil/chunklist_b1500000.m3u8
+#EXTINF:0,RAI Sport 1
+http://212.162.68.163/raisport+
 
 #EXTINF:-1,NHK World
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
