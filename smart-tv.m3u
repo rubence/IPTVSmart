@@ -17,56 +17,6 @@ http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 #EXTINF:-1,Sport TV 3 / BTV2
 http://31.204.128.112:8081/live/portugal3/playlist.m3u8
 
-#EXTINF:0,SPORT.TV 1 HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/5.m3u8
-#EXTINF:0,SPORT.TV 2 HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/6.m3u8
-#EXTINF:0,SPORT.TV 3 HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/7.m3u8
-#EXTINF:0,SPORT.TV 4 HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/8.m3u8
-#EXTINF:0,SPORT.TV 5 HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/9.m3u8
-#EXTINF:0,BTV 1 HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/10.m3u8
-#EXTINF:0,BTV 2 HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/11.m3u8
-
-#EXTINF:0,FR.beINSport_FR3
-http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/985.ts
-#EXTINF:0,FR.beINsport_FR2
-http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/984.ts
-#EXTINF:0,FR.beINsport_FR1
-http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/983.ts
-#EXTINF:0,FR:CANAL-SPORT-HD
-http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/1020.ts
-#EXTINF:0,FR: CANAL SPORT HD
-http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/1021.ts
-#EXTINF:0,FR.CANAL _SPORT
-http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/979.ts
-#EXTINF:0,FR.Ushuaia_TV
-http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/987.ts
-#EXTINF:0,FR.TF1
-http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/972.ts
-#EXTINF:0,FR.NATIONAL_GEO
-http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/988.ts
-#EXTINF:0,FR.NATGEO_WILD
-http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/989.ts
-#EXTINF:0,FR.M6
-http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/977.ts
-#EXTINF:0,FR.Discovery
-http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/990.ts
-#EXTINF:0,FR.CANAL _FAMILY
-http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/982.ts
-#EXTINF:0,FR.CANAL _DECALE
-http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/980.ts
-#EXTINF:0,FR.CANAL _CINEMA
-http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/981.ts
-#EXTINF:0,FR.CANAL
-http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/978.ts
-#EXTINF:0,FR.ANIMAUX
-http://37.187.125.57:8000/live/skype@smail-boino/stream-2626.com/986.ts 
-
 #EXTINF:-1,Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 #EXTINF:-1,Telekanal
