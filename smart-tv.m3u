@@ -29,8 +29,6 @@ http://iptvtt.ddns.net:8000/live/ismael/ismael/8.m3u8
 http://iptvtt.ddns.net:8000/live/ismael/ismael/9.m3u8
 #EXTINF:0,BTV 1 HD
 http://iptvtt.ddns.net:8000/live/ismael/ismael/10.m3u8
-#EXTINF:0,BTV 1 HQ
-http://iptvtt.ddns.net:8000/live/ismael/ismael/98.m3u8
 #EXTINF:0,BTV 2 HD
 http://iptvtt.ddns.net:8000/live/ismael/ismael/11.m3u8
 
