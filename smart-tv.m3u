@@ -282,13 +282,7 @@ rtmp://fms.pik-tv.com/live/piktv3pik3tv
 rtmp://188.165.135.22/gospeltv/livestream
 #EXTINF:-1,Miami Music
 http://74.208.152.93/music/stream.m3u8
-#EXTINF:-1,Djing Hot
-http://cdn.djing.com/tv/h-05.m3u8
 
-#EXTINF:-1,Univision
-http://104.200.159.58:1935/app/planetas77_u5kg8f7fs-channel/media_w700140360_10214.m3u8
-#EXTINF:-1,Gala Tv
-http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
 #EXTINF:-1,Azteca 7
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1,Azteca Trece 
@@ -305,12 +299,6 @@ http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
 http://ooyalahd2-f.akamaihd.net/i/latinalim_delivery@128959/master.m3u8
 #EXTINF:-1,America
 http://ooyalahd2-f.akamaihd.net:80/i/atv02_delivery@25405/index_1728_av-b.m3u8 
-#EXTINF:-1,Foro TV
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
-#EXTINF:-1,Telemundo
-http://104.200.159.58:1935/app/bypass_tvs-channel/media_w980039968_10152.m3u8
-#EXTINF:-1,Telemundo
-http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Telefe
 http://190.57.237.230/live/canal2.m3u8?ID=21.821294800974943
 #EXTINF:-1,Telecafe
@@ -321,8 +309,6 @@ http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
 #EXTINF:-1,Azteca Noticias 
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:-1,TV Peru
-http://iphone-streaming.ustream.tv/uhls/17419715/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1,Canal 2 Los Mochis Mexico
 http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8
 #EXTINF:-1,Canal 2 Obregon Mexico
@@ -331,18 +317,12 @@ http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8
 http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,Tele Caribe
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/playlist_b750000.m3u8
-#EXTINF:-1,America TV
-http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
-#EXTINF:-1,Andina TV
-http://edge-31-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist.m3u8
 #EXTINF:-1,TVN
 http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1,Canal T2
 rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p
 #EXTINF:-1,Canal 9
 http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
-#EXTINF:-1,Tateti
-http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,TV4 HD
 http://tv4live-i.akamaihd.net/hls/live/200284/akamaihls2/wifi1500_akamaihls2.m3u8
@@ -353,8 +333,6 @@ http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f4
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
 #EXTINF:-1,Weo TV 
 rtmp://str81.creacast.com:80/weo/high
-#EXTINF:-1,Club 1
-http://teleclub.fr/club1.mp4?sd=10&_Maghrebstar.com_rebase=on
 
 #EXTINF:-1,Mbc Action
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
@@ -366,21 +344,6 @@ http://63.237.48.23/ios/MBC2/MBC2.m3u8
 http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 #EXTINF:-1,Mbc Bollywood
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-#EXTINF:-1,Star Greek
-http://4.31.30.145:9080/
-
-#EXTINF:-1,HBO Brasil
-http://37.203.209.34:443/mobile/flash20/live.m3u8
-#EXTINF:-1,FOX Brasil
-http://37.203.209.34:443/mobile/flash29/live.m3u8
-#EXTINF:-1,Canal do Boi
-rtmp://srvvenus.canaldoboi.com/livecb/livestream
-#EXTINF:-1,Canal Rural
-http://7149o.ls.azioncdn.net:1935/7149o/canal_rural.sdp/live.m3u8
-#EXTINF:-1,TV Escola
-http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
-#EXTINF:-1,Tv Brasil
-rtmp://stream2.ba.gov.br:1935/livepkgr//pgm-1?adbe-live-event=irdeb?Grupo_UP_e_DOWN
 
 #EXTINF:-1,Barntele
 rtmp://rtmp.infomaniak.ch/livecast/barntele
