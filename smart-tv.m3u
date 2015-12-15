@@ -31,9 +31,6 @@ http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
 #EXTINF:-1,CBC Sports SD
 http://s69362.cdn.ngenix.net/live/_definst_/Stream2/chunklist.m3u8
 
-#EXTINF:-1,TVI REALITY
-http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8
-
 #EXTINF:-1,M6
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8?
 #EXTINF:-1,M6 Music Hits
