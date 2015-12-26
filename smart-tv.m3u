@@ -17,19 +17,6 @@ http://91.204.214.106:23201/stolen/250l/xenixos.7z
 #EXTINF:-1,Benfica TV 2 HD
 http://91.204.214.106:23201/stolen/233w/xenixos.7z
 
-#EXTINF:-1,Sky sport F1
-rtmp://89.248.174.101/live/luxsuperssf1
-#EXTINF:-1,Sky sport 1
-rtmp://89.248.174.101/live/bcdwlyss1
-#EXTINF:-1,Sky sport 2
-rtmp://89.248.174.101/live/luxsuperss2
-#EXTINF:-1,Sky sport 3
-rtmp://89.248.174.101/live/luxsuperss3
-#EXTINF:-1,Sky sport 4
-rtmp://89.248.174.101/live/luxsuperss4
-#EXTINF:-1,Sky sport 5
-rtmp://89.248.174.101/live/luxsuperss5
-
 #EXTINF:-1,Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 #EXTINF:-1,Telekanal
