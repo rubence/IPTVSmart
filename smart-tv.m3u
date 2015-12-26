@@ -12,9 +12,9 @@ http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 #EXTINF:-1,SPORT TV 3/BTV 1
 http://31.204.128.112:8081/live/portugal3/playlist.m3u8
 
-#EXTINF:-1,Benfica 1 HD
+#EXTINF:-1,Benfica TV 1 HD
 http://91.204.214.106:23201/stolen/250l/xenixos.7z
-#EXTINF:-1,Benfica 2
+#EXTINF:-1,Benfica TV 2 HD
 http://91.204.214.106:23201/stolen/233w/xenixos.7z
 
 #EXTINF:-1,Sky sport F1
