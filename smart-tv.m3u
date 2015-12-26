@@ -38,7 +38,7 @@ https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_ae
 http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
 #EXTINF:-1,RAI 2
 http://origin2.live.web.tv.streamprovider.net/streams/84553722f218dda44aab91b4ae0c2d42/index.m3u8
-#EXTINF‬:-1, RI i4
+#EXTINF‬:-1, AI 4
 http://212.162.68.162/Rai4/Rai4
 #EXTINF:-1,RAI 5
 http://stream12.rai.it:80/live/rai5.smil/chunklist_b1500000.m3u8
