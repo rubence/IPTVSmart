@@ -26,8 +26,6 @@ http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
 
 #EXTINF:-1,Win Sports
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
-#EXTINF:-1,Setanta Sport +
-http://91.149.172.133:8000/udp/239.0.0.164:8000
 #EXTINF:-1,Spor TV
 http://31.204.128.112:8081/live/sportv/playlist.m3u8
 
@@ -40,16 +38,12 @@ https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_ae
 http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
 #EXTINF:-1,RAI 2
 http://origin2.live.web.tv.streamprovider.net/streams/84553722f218dda44aab91b4ae0c2d42/index.m3u8
-#EXTINF:-1,RAI 3
-http://origin2.live.web.tv.streamprovider.net/streams/2946613af1f663bb5b4164131b8c9413/index.m3u8
-#EXTINF‬:-1, RAi4
+#EXTINF‬:-1, RI i4
 http://212.162.68.162/Rai4/Rai4
-#EXTINF:0,RAI 5
+#EXTINF:-1,RAI 5
 http://stream12.rai.it:80/live/rai5.smil/chunklist_b1500000.m3u8
 #EXTINF:-1, RAi5
 http://212.162.68.162/rai5/rai5
-#EXTINF:-1, RAi SPORT
-http://212.162.68.162/raisport+/raisport+
 
 #EXTINF:-1,NHK World
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
