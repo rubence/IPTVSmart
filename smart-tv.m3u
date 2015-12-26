@@ -14,6 +14,11 @@ http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 #EXTINF:-1,SPORT TV 3/BTV 1
 http://31.204.128.112:8081/live/portugal3/playlist.m3u8
 
+#EXTINF:-1,Benfica 1 HD
+http://91.204.214.106:23201/stolen/250l/xenixos.7z
+#EXTINF:-1,Benfica 2
+http://91.204.214.106:23201/stolen/233w/xenixos.7z
+
 #EXTINF:-1,Sky sport F1
 rtmp://89.248.174.101/live/luxsuperssf1
 #EXTINF:-1,Sky sport 1
