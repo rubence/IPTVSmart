@@ -470,13 +470,6 @@ http://212.19.7.91:8888/udp/239.191.254.75:13343
 #EXTINF:-1 audio-track="eng",Viasat Nature
 http://212.19.7.91:8888/udp/239.191.254.79:13343
 
-#EXTINF‬:0,VENUS
-http://iptvtt.ddns.net:8000/live/ismael/ismael/13.m3u8
-#EXTINF:0,PLBOYHD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/12.m3u8
-#EXTINF:0,HOT HD
-http://iptvtt.ddns.net:8000/live/ismael/ismael/51.m3u8
-
 #EXTINF:-1,Passie XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
 #EXTINF:-1,Japan Hot
