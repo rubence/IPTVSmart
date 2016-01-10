@@ -25,6 +25,8 @@ http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
 http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
 #EXTINF:-1,FOOTBALL REPORT
 http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8
+#EXTINF:-1,SPORTS USA (USA)
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
 #EXTINF:-1,FOX SPORTS
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?=%2F.ts
