@@ -48,7 +48,7 @@ http://tv3.noip.me/stream/RA9KFWMDAH/159.m3u8
 http://tv3.noip.me/stream/RA9KFWMDAH/143.m3u8
 
 #EXTINF:0, Global TV
-https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307535~exp=1434308135~acl=/i/*~id=17e92158-bbde-4665-a37c-817c97c7569c~hmac=1afe142fae8d05bad8895371e0834b246ce53e26af2bd6090227741f043668bd
+https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8
 #EXTINF:-1,M6
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8?
 #EXTINF:-1,M6 Music Hits
