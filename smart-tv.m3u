@@ -47,17 +47,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 #EXTINF:-1,Spor TV
 http://31.204.128.112:8081/live/sportv/playlist.m3u8
 
-#EXTINF:-1,DIEMA SPORTS 2
-http://lag3.tv-mobile.org/prgd.m3u8
-#EXTINF:-1,DIGISPORT 1
-http://82.76.249.81/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,DIGISPORT 2
-http://82.76.249.81/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,DIGISPORT 3
-http://82.76.249.81/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,DIGISPORT 4
-http://82.76.249.81/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
-
 #EXTINF:-1,FUTBOL 1
 http://tv3.noip.me/stream/RA9KFWMDAH/159.m3u8
 #EXTINF:-1,NTV SPORT
