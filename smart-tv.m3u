@@ -58,6 +58,11 @@ http://82.76.249.81/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=
 #EXTINF:-1,DIGISPORT 4
 http://82.76.249.81/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
 
+#EXTINF:-1,FUTBOL 1
+http://tv3.noip.me/stream/RA9KFWMDAH/159.m3u8
+#EXTINF:-1,NTV SPORT
+http://tv3.noip.me/stream/RA9KFWMDAH/143.m3u8
+
 #EXTINF:-1,M6
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8?
 #EXTINF:-1,M6 Music Hits
