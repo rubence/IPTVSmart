@@ -10,6 +10,11 @@ http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 #EXTINF:-1,SPORT TV 3/BTV 1
 http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 
+#EXTINF:-1,BENFICA TV 1
+http://91.204.214.106:23201/stolen/250l/xenixos.7z
+#EXTINF:-1,BENFICA TV 2
+http://91.204.214.106:23201/stolen/233w/xenixos.7z
+
 #EXTINF: -1,Idman Tv
 http://188.72.131.226/idman.m3u8
 #EXTINF:-1,Telekanal
