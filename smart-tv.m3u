@@ -47,6 +47,13 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 #EXTINF:-1,Spor TV
 http://31.204.128.112:8081/live/sportv/playlist.m3u8
 
+#EXTINF:-1,TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1,TNT LA
+http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1,TNT Series
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?=%2F.ts
+
 #EXTINF:-1,FUTBOL 1
 http://tv3.noip.me/stream/RA9KFWMDAH/159.m3u8
 #EXTINF:-1,NTV SPORT
