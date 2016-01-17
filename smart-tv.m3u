@@ -16,13 +16,13 @@ http://91.204.214.106:23201/stolen/250l/xenixos.7z
 http://91.204.214.106:23201/stolen/233w/xenixos.7z
 
 #EXTINF:-1,TVC 1
-http://163.172.14.11:12000/live/RzfEucfe15/UhtrJh6015/1281.ts
-#EXTINF:-1,TVC 2
 http://163.172.14.11:12000/live/RzfEucfe15/UhtrJh6015/1282.ts
-#EXTINF:-1,TVC 3
+#EXTINF:-1,TVC 2
 http://163.172.14.11:12000/live/RzfEucfe15/UhtrJh6015/1283.ts
-#EXTINF:-1,TVC 4
+#EXTINF:-1,TVC 3
 http://163.172.14.11:12000/live/RzfEucfe15/UhtrJh6015/1284.ts
+#EXTINF:-1,TVC 4
+http://163.172.14.11:12000/live/RzfEucfe15/UhtrJh6015/1285.ts
 
 #EXTINF: -1,Idman Tv
 http://188.72.131.226/idman.m3u8
