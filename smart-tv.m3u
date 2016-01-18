@@ -19,6 +19,11 @@ http://163.172.14.11:12000/live/RzfEucfe15/UhtrJh6015/1284.ts
 #EXTINF:-1,TVC 4
 http://163.172.14.11:12000/live/RzfEucfe15/UhtrJh6015/1285.ts
 
+#EXTINF:-1,SPORTTV 1 HD
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/46456/101.ts
+#EXTINF:-1,SPORT.TV 1
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/46456/102.ts
+
 #EXTINF: -1,Idman Tv
 http://188.72.131.226/idman.m3u8
 #EXTINF:-1,Telekanal
