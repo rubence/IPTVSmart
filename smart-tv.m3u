@@ -216,6 +216,19 @@ http://188.165.135.22/rtvd/livestream/chunklist_w662830705.m3u8
 #EXTINF:-1,TV4 
 http://188.165.135.22/15o8376r/mystream/chunklist_w1954944775.m3u8 
 
+#EXTINF‬:-1,TELEMUNDO 
+https://video05-lax.streamup.com/app/telemundox2chivas_69s-stream/playlist.m3u8
+#EXTINF:-1,Estrella TV
+https://video05-lax.streamup.com/app/vic_manz02s-stream/playlist.m3u8
+#EXTINF:-1,Azteca US
+https://video05-lax.streamup.com/app/vic_manzs-stream/playlist.m3u8
+#EXTINF:-1,UNIVISION
+https://video05-lax.streamup.com/app/turbo-maxs-channel/playlist.m3u8
+#EXTINF:-1,UNIVISION
+https://video05-lax.streamup.com/app/univision2chivas_69s-stream/playlist.m3u8
+#EXTINF:-1,Telefe
+https://video05-lax.streamup.com/app/beto_3s-channel/playlist.m3u8
+
 #EXTINF:-1,HD Fashion
 rtmp://95.67.8.43:1935/live/fashionhd
 
