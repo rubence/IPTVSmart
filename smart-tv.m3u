@@ -368,6 +368,13 @@ http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
 #EXTINF:-1,Weo TV 
 rtmp://str81.creacast.com:80/weo/high
 
+#EXTINF‬:-1,STV1
+http://88.212.10.27:81/streams/stv1.m3u8
+#EXTINF:-1,STV2
+http://88.212.10.27:81/streams/stv2.m3u8
+#EXTINF:-1,TA3
+http://88.212.10.27:81/streams/ta3.m3u8
+
 #EXTINF:-1,Mbc Action
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1,Mbc Max
