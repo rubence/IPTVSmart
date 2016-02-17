@@ -6,16 +6,10 @@ http://78.31.65.171:20000/live/dbcZ6Wnhh1/2g2SvcFAa6/80.ts
 http://78.31.65.171:20000/live/dbcZ6Wnhh1/2g2SvcFAa6/82.ts
 #EXTINF:0,SPORT TV 1
 http://78.31.65.171:20000/live/dbcZ6Wnhh1/2g2SvcFAa6/31.ts
-#EXTINF:0,SPORT TV 2
-http://78.31.65.171:20000/live/dbcZ6Wnhh1/2g2SvcFAa6/93.ts
 #EXTINF:0,BENFICA TV 1
 http://78.31.65.171:20000/live/dbcZ6Wnhh1/2g2SvcFAa6/53.ts
 #EXTINF:0,BOOMERANG
 http://78.31.65.171:20000/live/dbcZ6Wnhh1/2g2SvcFAa6/17.ts
-#EXTINF:0,HUSTLER
-http://78.31.65.171:20000/live/dbcZ6Wnhh1/2g2SvcFAa6/90.ts
-#EXTINF:0,REDLIGHT
-http://78.31.65.171:20000/live/dbcZ6Wnhh1/2g2SvcFAa6/91.ts
 
 #EXTINF: -1,Idman Tv
 http://188.72.131.226/idman.m3u8
@@ -29,37 +23,10 @@ http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
 http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8
 #EXTINF:-1,SPORTS USA
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-
-#EXTINF:-1,FOX SPORTS
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?=%2F.ts
-#EXTINF:-1,FOX SPORTS 2
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?=%2F.ts
-#EXTINF:-1,ESPN HD
-http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?=%2F.ts
-#EXTINF:-1,ESPN
-http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?=%2F.ts
-#EXTINF:-1,ESPN 2
-http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?=%2F.ts
-#EXTINF:-1,ESPN 3
-http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?=%2F.ts
 #EXTINF:-1,TYC SPORTS
 http://live.vodgc.com:1935/kLive/0_a5h483eu_all.smil/stream.m3u8
-#EXTINF:-1,Win Sports
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 #EXTINF:-1,Spor TV
 http://31.204.128.112:8081/live/sportv/playlist.m3u8
-
-#EXTINF:-1,TNT HD
-http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?=%2F.ts
-#EXTINF:-1,TNT LA
-http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?=%2F.ts
-#EXTINF:-1,TNT Series
-http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?=%2F.ts
-
-#EXTINF:-1,FUTBOL 1
-http://tv3.noip.me/stream/RA9KFWMDAH/159.m3u8
-#EXTINF:-1,NTV SPORT
-http://tv3.noip.me/stream/RA9KFWMDAH/143.m3u8
 
 #EXTINF:0, Global TV
 https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8
