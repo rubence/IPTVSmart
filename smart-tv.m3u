@@ -105,10 +105,6 @@ http://fms.shared.streamshow.it:1935/tsn/tsn/live.m3u8
 
 #EXTINF:-1,Sports TV
 http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
-#EXTINF:-1,НТВ+ Спорт
-http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
-#EXTINF:-1,НТВ+ Спорт Плюс
-http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
 #EXTINF:-1,Motorsport 1
 http://motorsport.hopto.org:8080/
 
@@ -116,12 +112,6 @@ http://motorsport.hopto.org:8080/
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 #EXTINF:-1,Eurosport 1 ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:-1,Bein Sports 1
-http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
-#EXTINF:-1,Bein Sports 2
-http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8
-#EXTINF:-1,Bein Sports 3 
-http://180.250.29.12/jhos/beib3_3/1424681986/playlist.m3u8
 #EXTINF:-1,Sport italia
 http://spi.hystream.com:1935/spilive/spistream_360/livestream.m3u8
 #EXTINF:-1,SportBG 720p Bulgarian
