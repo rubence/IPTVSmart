@@ -526,6 +526,8 @@ http://212.19.7.91:8888/udp/239.191.254.12:13343
 http://212.19.7.91:8888/udp/239.191.254.74:13343
 #EXTINF:-1,Mynbt
 http://212.19.7.91:8888/udp/239.191.254.75:13343
+#EXTINF:-1 audio-track="eng",Viasat Nature
+http://212.19.7.91:8888/udp/239.191.254.79:13343
 
 #EXTINF:-1,Passie XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
