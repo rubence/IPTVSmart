@@ -12,6 +12,16 @@ http://78.31.65.171:20000/live/eq6hTkElvC/2YeF4nS8si/130.ts
 http://78.31.65.171:20000/live/eq6hTkElvC/2YeF4nS8si/129.ts
 #EXTINF:0,BENFICA TV 1
 http://78.31.65.171:20000/live/eq6hTkElvC/2YeF4nS8si/53.ts
+#EXTINF:0,TVCINE 1
+http://78.31.65.171:20000/live/eq6hTkElvC/2YeF4nS8si/131.ts
+#EXTINF:0,TVCINE 2
+http://78.31.65.171:20000/live/eq6hTkElvC/2YeF4nS8si/132.ts
+#EXTINF:0,TVCINE 3
+http://78.31.65.171:20000/live/eq6hTkElvC/2YeF4nS8si/133.ts
+#EXTINF:0,TVCINE 4
+http://78.31.65.171:20000/live/eq6hTkElvC/2YeF4nS8si/134.ts
+#EXTINF:0,BOOMERANG
+http://78.31.65.171:20000/live/eq6hTkElvC/2YeF4nS8si/17.ts
 
 #EXTINF:-1,Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
