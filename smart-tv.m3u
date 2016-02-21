@@ -27,6 +27,8 @@ http://78.31.65.171:20000/live/b16KWY4HbS/7kEotoIgSQ/17.ts
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 #EXTINF:-1,Telekanal
 http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
+#EXTINF:-1,Sport italia
+http://spi.hystream.com:1935/spilive/spistream_360/livestream.m3u8
 #EXTINF:-1,Viasat Sport
 http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
 #EXTINF:-1,FOOTBALL REPORT
@@ -45,49 +47,19 @@ http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes
 #EXTINF:-1,M6 Music Hits
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 
-#EXTINF:-1,RAI 1
-http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
-#EXTINF:-1,RAI 2
-http://origin2.live.web.tv.streamprovider.net/streams/84553722f218dda44aab91b4ae0c2d42/index.m3u8
-#EXTINF‬:-1,RAI 4
-http://212.162.68.162/Rai4/Rai4
-#EXTINF:-1,RAI 5
-http://stream12.rai.it:80/live/rai5.smil/chunklist_b1500000.m3u8
-
 #EXTINF:-1,NHK World
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
-
-#EXTINF:-1,Cielo
-http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
 #EXTINF:-1,Sky TG24
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:-1,RAI News 24
-http://origin2.live.web.tv.streamprovider.net/streams/121612976e4808528d2ba7edc446887c/index.m3u8
-#EXTINF:-1,RAI Cultura
-http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
-#EXTINF:-1,Rai Movie
-http://stream10.rai.it:80/italy/raimovie.smil/chunklist_b1800000.m3u8
-#EXTINF:-1,RAI YoYo
-http://stream10.rai.it:80/italy/raiyoyo.smil/chunklist_b1800000.m3u8
-#EXTINF:-1,TSN
-http://fms.shared.streamshow.it:1935/tsn/tsn/live.m3u8
 
 #EXTINF:-1,Sports TV
 http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
-#EXTINF:-1,Motorsport 1
-http://motorsport.hopto.org:8080/
-
 #EXTINF:-1,Eurosport FR HD
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 #EXTINF:-1,Eurosport 1 ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:-1,Sport italia
-http://spi.hystream.com:1935/spilive/spistream_360/livestream.m3u8
 #EXTINF:-1,SportBG 720p Bulgarian
 http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
-
-#EXTINF:-1,IRAK Iraqiya Sport
-http://212.7.205.5:1935/sport/live/Cookiemonster.m3u8
 #EXTINF:-1,Nbc Sports Golf
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1,Sport Time TV 1
@@ -118,7 +90,7 @@ http://xrxs.net/video/live-p12losa-4728.m3u8
 http://xrxs.net/video/live-p12moun-4728.m3u8
 #EXTINF:-1,Pac 12 Oregon
 http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:-1,Pac 12 Washingtons
+#EXTINF:-1,Pac 12 Washington
 http://xrxs.net/video/live-p12wash-4728.m3u8
 #EXTINF:-1,BS TV
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/SAT_TOTAL.m3u8
@@ -153,10 +125,6 @@ http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
 #EXTINF:-1,TravelTv
 rtmp://87.106.219.140:1935/live/myStream_2
-#EXTINF:-1,Cuatro
-http://mediasethls-lh.akamaihd.net/i/mitele/cuatro_ng@393134/index_500_av-p.m3u8
-#EXTINF:-1,Telecinco
-http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_500_av-p.m3u8
 #EXTINF:-1,Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8
 #EXTINF:-1,LaSexta
@@ -167,8 +135,6 @@ http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8
 http://media3.crtvg.es/live/tvga/playlist.m3u8
 #EXTINF:-1,Galicia Europa
 http://media3.crtvg.es/live/tvge/playlist.m3u8
-#EXTINF:-1,Mega
-http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_1_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,Tele B
 http://directe.tvbadalona.cat:1935/live/myStream.sdp/.m3u8
 #EXTINF:-1,Levante TV
@@ -190,10 +156,8 @@ http://188.165.135.22/rtvd/livestream/chunklist_w662830705.m3u8
 #EXTINF:-1,TV4 
 http://188.165.135.22/15o8376r/mystream/chunklist_w1954944775.m3u8 
 
-#EXTINF‬:-1,TELEMUNDO 
+#EXTINF:-1,TELEMUNDO 
 https://video05-lax.streamup.com/app/telemundox2chivas_69s-stream/playlist.m3u8
-#EXTINF:-1,Estrella TV
-https://video05-lax.streamup.com/app/vic_manz02s-stream/playlist.m3u8
 #EXTINF:-1,Azteca US
 https://video05-lax.streamup.com/app/vic_manzs-stream/playlist.m3u8
 #EXTINF:-1,UNIVISION
