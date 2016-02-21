@@ -39,7 +39,6 @@ http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 http://live.vodgc.com:1935/kLive/0_a5h483eu_all.smil/stream.m3u8
 #EXTINF:-1,Spor TV
 http://31.204.128.112:8081/live/sportv/playlist.m3u8
-
 #EXTINF:0, Global TV
 https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8
 #EXTINF:-1,M6
