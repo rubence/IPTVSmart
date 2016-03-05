@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:0,SPORT TV 1 (link 2)
-http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/214.ts
-#EXTINF:0,SPORT TV 1
-http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/31.ts
-
 #EXTINF:-1,Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 #EXTINF:-1,Telekanal
