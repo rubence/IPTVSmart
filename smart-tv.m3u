@@ -72,6 +72,57 @@ http://gradina2.info:80/live/mahir2/mahir2/196.ts
 #EXTINF:-1,C More Sport
 http://gradina2.info:80/live/mahir2/mahir2/372.ts
 
+#EXTINF:-1,Arena 1 SR
+http://gradina2.info:80/live/mahir2/mahir2/19.ts
+#EXTINF:-1,Arena 2 SR
+http://gradina2.info:80/live/mahir2/mahir2/20.ts
+#EXTINF:-1,Arena 3 SR
+http://gradina2.info:80/live/mahir2/mahir2/21.ts
+#EXTINF:-1,Arena 4 SR
+http://gradina2.info:80/live/mahir2/mahir2/22.ts
+#EXTINF:-1,Arena 5 SR
+http://gradina2.info:80/live/mahir2/mahir2/219.ts
+#EXTINF:-1,Arena 1 HR
+http://gradina2.info:80/live/mahir2/mahir2/84.ts
+#EXTINF:-1,Arena 2 HR
+http://gradina2.info:80/live/mahir2/mahir2/142.ts Arena 2 HR
+#EXTINF:-1,Arena 3 HR
+http://gradina2.info:80/live/mahir2/mahir2/143.ts Arena 3 HR
+#EXTINF:-1,Arena 4 HR
+http://gradina2.info:80/live/mahir2/mahir2/144.ts Arena 4 HR
+#EXTINF:-1,Sport Klub 1 SR
+http://gradina2.info:80/live/mahir2/mahir2/83.ts
+#EXTINF:-1,Sport Klub 2 SR
+http://gradina2.info:80/live/mahir2/mahir2/88.ts
+#EXTINF:-1,Sport Klub 3 SR
+http://gradina2.info:80/live/mahir2/mahir2/89.ts
+#EXTINF:-1,Sport Klub 4 SR
+http://gradina2.info:80/live/mahir2/mahir2/55.ts
+#EXTINF:-1,FOX Sports 2
+http://gradina2.info:80/live/mahir2/mahir2/56.ts
+#EXTINF:-1,FOX Sports 3
+http://gradina2.info:80/live/mahir2/mahir2/57.ts
+#EXTINF:-1,FOX Sports 4
+http://gradina2.info:80/live/mahir2/mahir2/58.ts
+#EXTINF:-1,FOX Sports 5
+http://gradina2.info:80/live/mahir2/mahir2/59.ts
+#EXTINF:-1,SKY BundesLiga 1
+http://gradina2.info:80/live/mahir2/mahir2/80.ts
+#EXTINF:-1,SKY Sport 1
+http://gradina2.info:80/live/mahir2/mahir2/78.ts
+#EXTINF:-1,SKY Sport 2
+http://gradina2.info:80/live/mahir2/mahir2/79.ts
+#EXTINF:-1,Sky Sport HD
+http://gradina2.info:80/live/mahir2/mahir2/384.ts
+#EXTINF:-1,Sky Sport 1 HD 
+http://gradina2.info:80/live/mahir2/mahir2/383.ts
+#EXTINF:-1,Sky Calcio 2 
+http://gradina2.info:80/live/mahir2/mahir2/498.ts
+#EXTINF:-1,Sky Calcio 1
+http://gradina2.info:80/live/mahir2/mahir2/497.ts
+#EXTINF:-1,RAI Sport 1
+http://gradina2.info:80/live/mahir2/mahir2/388.ts
+
 #EXTINF:-1,Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 #EXTINF:-1,Telekanal
@@ -94,12 +145,10 @@ https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8?
 #EXTINF:-1,M6 Music Hits
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-
 #EXTINF:-1,NHK World
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 #EXTINF:-1,Sky TG24
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
-
 #EXTINF:-1,Sports TV
 http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
 #EXTINF:-1,Eurosport FR HD
