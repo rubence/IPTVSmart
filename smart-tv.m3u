@@ -65,6 +65,11 @@ http://ipsatpro.com:8000/live/28071980/28071980/884.ts
 #EXTINF:0,SPORT TV 5
 http://mediaptv.zapto.org:88/live/free/iptv/25.ts
 
+#EXTINF:-1,Bein Sport 1 HD
+http://gradina2.info:80/live/mahir2/mahir2/195.ts
+#EXTINF:-1,Bein Sport 2 HD
+http://gradina2.info:80/live/mahir2/mahir2/196.ts
+
 #EXTINF:-1,Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 #EXTINF:-1,Telekanal
