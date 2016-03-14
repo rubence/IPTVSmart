@@ -69,6 +69,8 @@ http://mediaptv.zapto.org:88/live/free/iptv/25.ts
 http://gradina2.info:80/live/mahir2/mahir2/195.ts
 #EXTINF:-1,Bein Sport 2 HD
 http://gradina2.info:80/live/mahir2/mahir2/196.ts
+#EXTINF:-1,C More Sport
+http://gradina2.info:80/live/mahir2/mahir2/372.ts
 
 #EXTINF:-1,Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
