@@ -1,69 +1,21 @@
 #EXTM3U
 
-#EXTINF:0,BENFICA TV 1
-http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/53.ts
-#EXTINF:0,BENFICA TV 1
-http://178.33.231.219:88/live/101/101/86.ts
-#EXTINF:0,BENFICA TV 2
-http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/55.ts
-#EXTINF:0,BENFICA TV 2
-http://178.33.231.219:88/live/101/101/87.ts
 #EXTINF:0,SPORT TV 1
-http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/43.ts
-#EXTINF:0,SPORT TV 1
-http://www.t12v.com:8000/live/Vince/Vince1/501.ts
-#EXTINF:0,SPORT TV 1
-http://178.33.231.219:88/live/101/101/64.ts
-#EXTINF:0,SPORT TV 1
-http://ipsatpro.com:8000/live/28071980/28071980/880.ts
-#EXTINF:0,SPORT TV 1
-http://178.33.231.219:88/live/reda/reda/64.ts
-#EXTINF:0,SPORT TV 1
-http://mediaptv.zapto.org:88/live/free/iptv/18.ts
+http://78.31.65.171:20000/live/ZnojXpItVK/IazKj0Ghmq/31.ts
 #EXTINF:0,SPORT TV 2
-http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/44.ts
-#EXTINF:0,SPORT TV 2
-http://www.t12v.com:8000/live/Vince/Vince1/503.ts
-#EXTINF:0,SPORT TV 2
-http://178.33.231.219:88/live/101/101/65.ts
-#EXTINF:0,SPORT TV 2
-http://ipsatpro.com:8000/live/28071980/28071980/881.m3u8
-#EXTINF:0,SPORT TV 2
-http://178.33.231.219:88/live/reda/reda/65.ts
-#EXTINF:0,SPORT TV 2 
-http://mediaptv.zapto.org:88/live/free/iptv/20.ts
+http://78.31.65.171:20000/live/ZnojXpItVK/IazKj0Ghmq/242.ts
 #EXTINF:0,SPORT TV 3
-http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/119.ts
-#EXTINF:0,SPORT TV 3
-http://www.t12v.com:8000/live/Vince/Vince1/1135.ts
-#EXTINF:0,SPORT TV 3 
-http://178.33.231.219:88/live/101/101/66.ts
-#EXTINF:0,SPORT TV 3 
-http://ipsatpro.com:8000/live/28071980/28071980/882.ts
-#EXTINF:0,SPORT TV 3 
-http://178.33.231.219:88/live/reda/reda/66.ts
-#EXTINF:0,SPORT TV 3 
-http://mediaptv.zapto.org:88/live/free/iptv/21.ts
-#EXTINF:0,SPORT TV 4 
-http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/46.ts
-#EXTINF:0,SPORT TV 4
-http://www.t12v.com:8000/live/Vince/Vince1/1136.ts
-#EXTINF:0,SPORT TV 4 
-http://178.33.231.219:88/live/101/101/67.ts
-#EXTINF:0,SPORT TV 4
-http://ipsatpro.com:8000/live/28071980/28071980/883.ts
-#EXTINF:0,SPORT TV 4
-http://178.33.231.219:88/live/reda/reda/67.ts
-#EXTINF:0,SPORT TV 4
-http://mediaptv.zapto.org:88/live/free/iptv/23.ts
+http://78.31.65.171:20000/live/ZnojXpItVK/IazKj0Ghmq/243.ts
 #EXTINF:0,SPORT TV 5
-http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/47.ts
-#EXTINF:0,SPORT TV 5 
-http://www.t12v.com:8000/live/Vince/Vince1/1137.ts
-#EXTINF:0,SPORT TV 5
-http://ipsatpro.com:8000/live/28071980/28071980/884.ts
-#EXTINF:0,SPORT TV 5
-http://mediaptv.zapto.org:88/live/free/iptv/25.ts
+http://78.31.65.171:20000/live/ZnojXpItVK/IazKj0Ghmq/246.ts
+#EXTINF:0,BENFICA TV 1
+http://78.31.65.171:20000/live/ZnojXpItVK/IazKj0Ghmq/237.ts
+#EXTINF:0,BOOMERANG
+http://78.31.65.171:20000/live/ZnojXpItVK/IazKj0Ghmq/17.ts
+#EXTINF:0,VENUS
+http://78.31.65.171:20000/live/ZnojXpItVK/IazKj0Ghmq/204.ts
+#EXTINF:0,BRAZZERS TV
+http://78.31.65.171:20000/live/ZnojXpItVK/IazKj0Ghmq/252.ts
 
 #EXTINF:-1,Bein Sport 1 HD
 http://gradina2.info:80/live/mahir2/mahir2/195.ts
