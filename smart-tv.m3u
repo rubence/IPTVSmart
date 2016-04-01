@@ -1,74 +1,7 @@
 #EXTM3U
 
-#EXTINF:0,SPORT TV 1
-http://78.31.65.171:20000/live/ZnojXpItVK/IazKj0Ghmq/31.ts
-#EXTINF:0,SPORT TV 2
-http://78.31.65.171:20000/live/ZnojXpItVK/IazKj0Ghmq/242.ts
-#EXTINF:0,SPORT TV 3
-http://78.31.65.171:20000/live/ZnojXpItVK/IazKj0Ghmq/243.ts
-#EXTINF:0,SPORT TV 5
-http://78.31.65.171:20000/live/ZnojXpItVK/IazKj0Ghmq/246.ts
 #EXTINF:0,BENFICA TV 1
-http://78.31.65.171:20000/live/ZnojXpItVK/IazKj0Ghmq/237.ts
-#EXTINF:0,BOOMERANG
-http://78.31.65.171:20000/live/ZnojXpItVK/IazKj0Ghmq/17.ts
-#EXTINF:0,VENUS
-http://78.31.65.171:20000/live/ZnojXpItVK/IazKj0Ghmq/204.ts
-#EXTINF:0,BRAZZERS TV
-http://78.31.65.171:20000/live/ZnojXpItVK/IazKj0Ghmq/252.ts
-
-#EXTINF:-1,Bein Sport 1 HD
-http://gradina2.info:80/live/mahir2/mahir2/195.ts
-#EXTINF:-1,Bein Sport 2 HD
-http://gradina2.info:80/live/mahir2/mahir2/196.ts
-#EXTINF:-1,C More Sport
-http://gradina2.info:80/live/mahir2/mahir2/372.ts
-#EXTINF:-1,Arena 1 SR
-http://gradina2.info:80/live/mahir2/mahir2/19.ts
-#EXTINF:-1,Arena 2 SR
-http://gradina2.info:80/live/mahir2/mahir2/20.ts
-#EXTINF:-1,Arena 3 SR
-http://gradina2.info:80/live/mahir2/mahir2/21.ts
-#EXTINF:-1,Arena 4 SR
-http://gradina2.info:80/live/mahir2/mahir2/22.ts
-#EXTINF:-1,Arena 5 SR
-http://gradina2.info:80/live/mahir2/mahir2/219.ts
-#EXTINF:-1,Arena 1 HR
-http://gradina2.info:80/live/mahir2/mahir2/84.ts
-#EXTINF:-1,Arena 2 HR
-http://gradina2.info:80/live/mahir2/mahir2/142.ts
-#EXTINF:-1,Arena 3 HR
-http://gradina2.info:80/live/mahir2/mahir2/143.ts
-#EXTINF:-1,Arena 4 HR
-http://gradina2.info:80/live/mahir2/mahir2/144.ts
-#EXTINF:-1,Sport Klub 1 SR
-http://gradina2.info:80/live/mahir2/mahir2/83.ts
-#EXTINF:-1,Sport Klub 2 SR
-http://gradina2.info:80/live/mahir2/mahir2/88.ts
-#EXTINF:-1,Sport Klub 3 SR
-http://gradina2.info:80/live/mahir2/mahir2/89.ts
-#EXTINF:-1,Sport Klub 4 SR
-http://gradina2.info:80/live/mahir2/mahir2/55.ts
-#EXTINF:-1,FOX Sports 2
-http://gradina2.info:80/live/mahir2/mahir2/56.ts
-#EXTINF:-1,FOX Sports 3
-http://gradina2.info:80/live/mahir2/mahir2/57.ts
-#EXTINF:-1,FOX Sports 4
-http://gradina2.info:80/live/mahir2/mahir2/58.ts
-#EXTINF:-1,FOX Sports 5
-http://gradina2.info:80/live/mahir2/mahir2/59.ts
-#EXTINF:-1,SKY BundesLiga 1
-http://gradina2.info:80/live/mahir2/mahir2/80.ts
-#EXTINF:-1,SKY Sport 1
-http://gradina2.info:80/live/mahir2/mahir2/78.ts
-#EXTINF:-1,Sky Sport HD
-http://gradina2.info:80/live/mahir2/mahir2/384.ts
-#EXTINF:-1,Sky Sport 1 HD 
-http://gradina2.info:80/live/mahir2/mahir2/383.ts
-#EXTINF:-1,Sky Calcio 2 
-http://gradina2.info:80/live/mahir2/mahir2/498.ts
-#EXTINF:-1,RAI Sport 1
-http://gradina2.info:80/live/mahir2/mahir2/388.ts
+http://78.31.65.171:20000/live/Linhadeacesso/iptvpassword/271.ts
 
 #EXTINF:-1,Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
